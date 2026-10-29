@@ -1,4 +1,4 @@
-# Survivor Camp: The Beginner's Guide
+# Survivor Camp: Full Guide
 
 *Last updated Oct 29, 2026. Matches stream overlay v0.22.0 and SharpieBot v0.29.1. Shop launch: **Fri Oct 30, 2026**. The shorter version is the Quick Start.*
 
