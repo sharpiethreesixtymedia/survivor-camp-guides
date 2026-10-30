@@ -15,12 +15,15 @@ Nature Radio is the chill station in our nature voice channel, and its DJ is **N
 `/naturedj now` what's playing, how far in, the loop mode and what's up next
 `/naturedj loop mode:all` every track in order, then back to the start
 `/naturedj loop mode:one` repeat one track (add `track:`, or pick from the menu)
+`/naturedj skip direction:next` next track (`previous` goes back). It wraps around, and in loop one it changes the looped track
+`/naturedj jump direction:forward` jump 5 minutes ahead in the track (`back` goes 5 minutes back)
+`/naturedj volume level:` set the volume for everyone, 1-100 (leave it empty to see the current volume)
 
 **Who Can Ask**
-Anyone sitting in the channel can play, loop, pause or resume. No linking needed.
+Anyone sitting in the channel can play, loop, skip, jump, change the volume, pause or resume. No linking needed.
 
 **Cooldowns**
-After you use play, loop, pause or resume, wait **30 seconds** before using one again. Everybody shares a **5 second** cooldown too, so there's no ping-ponging. If you're too fast it tells you how long to wait.
+After you use play, loop, skip, jump, volume, pause or resume, wait **30 seconds** before using one again. Everybody shares a **5 second** cooldown too, so there's no ping-ponging. If you're too fast it tells you how long to wait.
 
 **Empty Channel**
 When nobody's in the channel for **1 minute**, the DJ takes a break and pauses. It starts again the moment someone joins. It stays in the channel the whole time.
