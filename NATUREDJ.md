@@ -1,30 +1,30 @@
-# 🌲 NatureDJ: Quick Guide
-NatureDJ is the bot that plays calm nature sounds in our nature voice channel. Join the channel, pick a track and it loops for as long as you like. It replaces the old Nature Radio (`/natureradio` is gone).
+# 📻 Nature Radio, with DJ NatureDJ
+Nature Radio is the chill station in our nature voice channel, and its DJ is **NatureDJ**. Hop in, ask the DJ for a track and it loops for as long as you like. You run everything with `/naturedj` (the old `/natureradio` commands are gone).
 
-**The Tracks**
+**On The Playlist**
 `dunes`
 `storms`
 `waves`
 `woods`
 
-**Commands (Discord, `/`)**
+**Ask The DJ (Discord, `/`)**
 `/naturedj tracks` list the tracks (▶️ marks the one playing)
 `/naturedj play track:` switch tracks (start typing, it autocompletes)
 `/naturedj pause` pause it for everyone in the channel
 `/naturedj resume` bring it back
 `/naturedj now` what's playing, where it is in the loop, and how long the track is
 
-**Who Can Use It**
-Anyone sitting in the NatureDJ voice channel can play, pause or resume. No linking needed.
+**Who Can Ask**
+Anyone sitting in the channel can play, pause or resume. No linking needed.
 
 **Cooldowns**
 After you use play, pause or resume, wait **30 seconds** before using one again. Everybody shares a **5 second** cooldown too, so there's no ping-ponging. If you're too fast it tells you how long to wait.
 
 **Empty Channel**
-When nobody's in the channel for **1 minute**, NatureDJ pauses by itself to save the bot server. It starts again the moment someone joins. It stays in the channel the whole time.
+When nobody's in the channel for **1 minute**, the DJ takes a break and pauses. It starts again the moment someone joins. It stays in the channel the whole time.
 
 **Staff Only**
-`/naturedj join` bring NatureDJ into the channel
-`/naturedj leave` take it out (it stays out until `/naturedj join`)
+`/naturedj join` bring the DJ in
+`/naturedj leave` send the DJ home (it stays out until `/naturedj join`)
 
 Stay Sharp! 🌊
