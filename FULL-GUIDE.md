@@ -1,6 +1,6 @@
 # Survivor Camp: The Full Beginner's Guide
 
-*Last updated Oct 30, 2026 (shop launch day). Matches SharpieBot v0.31.6. The shop is open. The shorter version is the Quick Start.*
+*Last updated Oct 30, 2026 (shop launch day). Matches SharpieBot v0.32.0. The shop is open. The shorter version is the Quick Start.*
 
 Hey, welcome to camp! This guide explains everything from scratch, so you don't need to know anything going in. If you get stuck, jump to the FAQ at the bottom.
 
@@ -40,7 +40,7 @@ It works on every platform Sharpie360 streams to: YouTube, Rumble, Twitch, Kick,
 - a **longer stay** in camp,
 - your **own look**: skin tone, hair color, hairstyle, body type (man or woman) and mood,
 - your **own outfit**, picked in your Discord backpack,
-- a **100 Scrap linking bonus** (and if you linked before the shop opened, a spot as a **Founding Survivor** with free starter gear, see section 7),
+- a **100 Scrap linking bonus** and free **Starter Picks** (2 heads, 2 outfits, 2 tools; if you linked before the shop opened you're a **Founding Survivor** and own every starter item instead, see section 7),
 - the ability to move your survivor **from Discord** with `/camp join`, `/camp dance` and so on.
 
 ---
@@ -198,7 +198,7 @@ The backpack is where you **try on and wear** your Survivor Camp items. Open it 
 - **A card below it** with numbered item tiles, 15 per page (5 per row).
 
 ### The buttons
-- **Dropdown:** All Items, Heads, Bodies or Tools. (Founding Survivors also get a **Founder Picks** tab, see section 7.)
+- **Dropdown:** All Items, Heads, Bodies or Tools. (Linked members also get a **Starter Picks** tab until they lock in their picks, see section 7.)
 - **Three rows of numbers (1-15):** tap a number to **try that item on**. The picture updates.
 - **Bottom row:** ◀ Back / **Equip** / **Unequip All** / Next ▶ / Close.
 
@@ -216,7 +216,7 @@ The backpack is where you **try on and wear** your Survivor Camp items. Open it 
 Yes, if you're linked. Your survivor picks up the change **within about a minute, even if it's already in camp.** No need to leave and rejoin.
 
 ### What's in it
-Your backpack shows the items you **own**. New survivors start with no items. You get items by buying them in `/camp shop`, or as a Founding Survivor (section 7). Looks (skin, hair, hairstyle, body, mood) are always free.
+Your backpack shows the items you **own**. New survivors start with no items. You get items by buying them in `/camp shop`, with your free Starter Picks, or as a Founding Survivor (section 7). Looks (skin, hair, hairstyle, body, mood) are always free.
 
 Only you can press your backpack's buttons, and they stop working after 10 minutes. Just run `/camp backpack` again.
 
@@ -272,10 +272,13 @@ So a regular can grab a cheap starter item in about a week, and the most active 
 | Paragon | 10,000 |
 | Apex | 15,000 |
 
+### Starter Picks (everyone)
+Once you're linked (before or after launch), `/camp backpack` has a one-time, free **Starter Picks** tab: choose up to **2 heads, 2 outfits and 2 tools** from the starter items (except Vollie, a premium item you buy with Scrap), then press **Lock In** and confirm **Yes, Lock In Forever**. Your picks are yours for good and can't be changed.
+
 ### Founding Survivors
 Everyone who **linked before the shop opened** is a **Founding Survivor**. You get:
-- a gold **Founding Survivor** tag on your backpack picture,
-- a one-time, free **Founder Picks** tab in `/camp backpack`: choose up to **2 heads, 2 outfits and 2 tools** from the starter items (except Vollie, a premium item you buy with Scrap), then press **Lock In** and confirm **Yes, Lock In Forever**. Your picks are yours for good and can't be changed.
+- a gold **Founding Survivor** tag on your backpack picture and the Founding Survivor Discord role,
+- **every starter item except Vollie**, free and yours for good. No picking needed, so you won't see a Starter Picks tab.
 
 ### How to browse, preview and buy
 1. Run `/camp shop`.
@@ -309,7 +312,7 @@ Pick **Sets** in the dropdown. There are 5 outfit sets, each a head plus a body:
 
 ### Prices (Scrap)
 The shop has **40 items** in three tiers, **6,085 Scrap** for everything:
-- **Starter** (22 items, 75-300, total **2,525**). **Vollie** (300), the volleyball with a smiley face, is premium, so it isn't one of the free Founder Picks.
+- **Starter** (22 items, 75-300, total **2,525**). **Vollie** (300), the volleyball with a smiley face, is premium, so it isn't a free Starter Pick or part of the founder set.
 - **Wood** (7 items, same prices as their starter matches, total **705**).
 - **Bone** (11 items, 210-310, total **2,855**).
 
@@ -409,7 +412,7 @@ Guests always have the default skin tone and brown hair. Link up to use your own
 | Look | Default skin and hair, starter outfit | Your `/camp look`, `/camp body`, `/camp mood` and `/camp backpack` picks |
 | Several platforms | One survivor per platform | **One survivor** for all your linked platforms |
 | Control from Discord | No | Yes (`/camp join`, `leave`, `dance`, `wave`) |
-| Scrap bonus and Founder Picks | No | 100 Scrap linking bonus, and Founding Survivor perks if you linked before launch |
+| Scrap bonus and free items | No | 100 Scrap linking bonus and Starter Picks (Founding Survivors own every starter item instead) |
 
 **Rejoin cooldown (everyone):** after your survivor leaves for any reason (time up, `!camp leave`, or removed by the streamer), you have to wait **5 minutes** before you can `!camp join` again. You'll get a "rejoin cooldown" message if you try sooner. For linked survivors, this covers all your platforms together.
 
@@ -505,7 +508,7 @@ That's the guest limit. Link up for a longer stay (until you've been quiet for 1
 The staff can limit these commands to certain roles for a while. If so, the bot tells you which role is needed. Also, the buttons stop after 10 minutes, so just run the command again.
 
 **What's a Founding Survivor?**
-Anyone who linked their account before the shop opened. They get a gold tag and a one-time free pick of 2 heads, 2 outfits and 2 tools from the starter items (not Vollie), in the backpack's Founder Picks tab. New links after launch still get the 100 Scrap bonus.
+Anyone who linked their account before the shop opened. They get a gold tag, the Founding Survivor role, and every starter item except Vollie. Everyone who links after launch still gets the 100 Scrap bonus and free Starter Picks.
 
 **Someone asked for my password to "link" me.**
 That's a scam. Linking only ever uses the one-time code from `/camp link`. Report it to the staff.
