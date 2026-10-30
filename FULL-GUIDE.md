@@ -333,7 +333,7 @@ The starter gear is 22 items at **75 to 300 each** (all 22 together: **2,525**).
 | | | | | Volleyball (red handprint) | 190 |
 | | | | | Vollie (volleyball with a face) | 300 |
 
-**Specials (shown as "Coming soon", can't be bought yet):** Hair color unlock 150, WILSON! 190, Campfire 250.
+**Specials (shown as "Coming soon", can't be bought yet):** WILSON! 190, Campfire 250. (Custom hair color is free, see section 8.)
 
 These prices are the same in the stream overlay's item list. They may still get small changes before launch.
 
@@ -369,7 +369,7 @@ All looks are **free**.
 - **Feeling lucky?** `/camp look random:True` rolls a random skin tone, hair color and hairstyle, always different from what you have now, and saves it. (Linked members only.) If you also pick a `style`, that style is kept and only the colors roll.
 - You can save a look before linking. It shows up on stream once you link.
 - Changes show on stream **within about a minute**, even if your survivor is already in camp.
-- `custom_hair` (your own hex color like `#3fa7ff`) is the **Hair Color unlock** in the shop (a Special, coming soon). Until then, it tells you it isn't unlocked.
+- `custom_hair` (your own hex color like `#3fa7ff`) is **free for everyone**: any hair color you like, no unlock needed. Picking a preset `hair` color switches back.
 
 ### Body type: `/camp body`
 Pick **Man** or **Woman**. Free. Your skin, hair, mood and outfit stay the same.
@@ -445,7 +445,6 @@ Guests always have the default skin tone and brown hair. Link up to use your own
 - **Set bundles** (head and body together): the code exists but is **off by design**. Pieces are sold one at a time.
 
 ### Specials (shown in the shop as "Coming soon")
-- **Hair Color unlock** (150): lets you use `/camp look custom_hair:#hex` for any hair color.
 - **WILSON!** (190): a special animation where your survivor holds up the volleyball and yells "WILSON!" (Wollie is the volleyball, a nod to Cast Away and Stranded Deep).
 - **Campfire** (250): an add-on survivors can gather around. Details still to come.
 
