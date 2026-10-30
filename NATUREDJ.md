@@ -20,7 +20,7 @@ Nature Radio is the chill station in our nature voice channel, and its DJ is **N
 `/naturedj volume level:` set the volume for everyone, 1-100 (leave it empty to see the current volume)
 
 **Meet The DJs**
-Three DJs take turns on the decks, and the DJ's picture changes every **2 hours**: 🥥 **DJ Coco Vinne** -> 🌅 **DJ Sunnie Dee** -> 🌊 **DJ Misty Sea**, then round again.
+Three DJs take turns on the decks, and every **2 hours** the DJ's picture, banner, bio and server nickname change: 🥥 **DJ Coco Vinne** -> 🌅 **DJ Sunnie Dee** -> 🌊 **DJ Misty Sea**, then round again.
 
 **Who Can Ask**
 Anyone sitting in the channel can play, loop, skip, jump, change the volume, pause or resume. No linking needed.
