@@ -1,6 +1,6 @@
 # Survivor Camp: The Full Beginner's Guide
 
-*Last updated Oct 30, 2026 (shop launch day). Matches SharpieBot v0.32.0. The shop is open. The shorter version is the Quick Start.*
+*Last updated Oct 30, 2026 (shop launch day). Matches SharpieBot v0.33.0. The shop is open. The shorter version is the Quick Start.*
 
 Hey, welcome to camp! This guide explains everything from scratch, so you don't need to know anything going in. If you get stuck, jump to the FAQ at the bottom.
 
@@ -40,7 +40,7 @@ It works on every platform Sharpie360 streams to: YouTube, Rumble, Twitch, Kick,
 - a **longer stay** in camp,
 - your **own look**: skin tone, hair color, hairstyle, body type (man or woman) and mood,
 - your **own outfit**, picked in your Discord backpack,
-- a **100 Scrap linking bonus** and free **Starter Picks** (2 heads, 2 outfits, 2 tools; if you linked before the shop opened you're a **Founding Survivor** and own every starter item instead, see section 7),
+- a **100 Scrap linking bonus** and free **Starter Picks** (2 heads, 2 outfits, 2 tools; if you link by **Sun Nov 8, 8 AM Central** you're a **Founding Survivor** and own every starter item instead, see section 7),
 - the ability to move your survivor **from Discord** with `/camp join`, `/camp dance` and so on.
 
 ---
@@ -276,7 +276,7 @@ So a regular can grab a cheap starter item in about a week, and the most active 
 Once you're linked (before or after launch), `/camp backpack` has a one-time, free **Starter Picks** tab: choose up to **2 heads, 2 outfits and 2 tools** from the starter items (except Vollie, a premium item you buy with Scrap), then press **Lock In** and confirm **Yes, Lock In Forever**. Your picks are yours for good and can't be changed.
 
 ### Founding Survivors
-Everyone who **linked before the shop opened** is a **Founding Survivor**. You get:
+Everyone who **links by Sun Nov 8, 2026, 8 AM Central** is a **Founding Survivor** (that's everyone linked when the shop opened, plus a one-week grace window for everyone who links after). It happens automatically when you link, and the bot DMs you. Already locked your Starter Picks? You keep them and get the full set too. You get:
 - a gold **Founding Survivor** tag on your backpack picture and the Founding Survivor Discord role,
 - **every starter item except Vollie**, free and yours for good. No picking needed, so you won't see a Starter Picks tab.
 
@@ -508,7 +508,7 @@ That's the guest limit. Link up for a longer stay (until you've been quiet for 1
 The staff can limit these commands to certain roles for a while. If so, the bot tells you which role is needed. Also, the buttons stop after 10 minutes, so just run the command again.
 
 **What's a Founding Survivor?**
-Anyone who linked their account before the shop opened. They get a gold tag, the Founding Survivor role, and every starter item except Vollie. Everyone who links after launch still gets the 100 Scrap bonus and free Starter Picks.
+Anyone who linked their account by Sun Nov 8, 2026, 8 AM Central. They get a gold tag, the Founding Survivor role, and every starter item except Vollie. Everyone who links after that still gets the 100 Scrap bonus and free Starter Picks.
 
 **Someone asked for my password to "link" me.**
 That's a scam. Linking only ever uses the one-time code from `/camp link`. Report it to the staff.
@@ -530,7 +530,7 @@ Members don't need this part. These commands are for staff only, and every chang
 - `founder` (`add`, `remove`, `list`) changes or shows who is a Founding Survivor.
 - `setup` sets the campfire channel and the mod log channel.
 
-The shop launch is done (`/sharpie shop launch` only runs once). `/campadmin founder list` shows the Founding Survivors.
+The shop launch is done (`/sharpie shop launch` only runs once). `/campadmin founder list` shows the Founding Survivors. Until Sun Nov 8, 8 AM Central (config `shop: founder_grace_until`), new links become founders automatically.
 
 ---
 

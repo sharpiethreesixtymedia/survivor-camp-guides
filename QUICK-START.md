@@ -21,7 +21,7 @@ Trick: the link code is born in Discord, used in stream chat.
 4. Your name turns gold and SharpieBot DMs you. Done. No passwords, ever.
 
 **Why Link?**
-Gold name, no 3-minute guest limit (you stay until 10 min without chatting), your own look and outfit, Discord control of your survivor, a **100 Scrap bonus** (once), and free **Starter Picks**: keep **2 hats, 2 outfits and 2 tools** from the starter items forever (Starter Picks tab in `/camp backpack`, not Vollie). Linked before the shop opened? You're a **Founding Survivor**: a gold tag and you **own every starter item** except Vollie.
+Gold name, no 3-minute guest limit (you stay until 10 min without chatting), your own look and outfit, Discord control of your survivor, a **100 Scrap bonus** (once), and free **Starter Picks**: keep **2 hats, 2 outfits and 2 tools** from the starter items forever (Starter Picks tab in `/camp backpack`, not Vollie). Link by **Sun Nov 8, 8 AM Central** and you're a **Founding Survivor**: a gold tag and you **own every starter item** except Vollie.
 
 **Earning Scrap** (every Scrap is also 1 XP)
 `/camp daily` 15, +1 per day in a row, up to 25
