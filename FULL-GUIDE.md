@@ -1,6 +1,6 @@
 # Survivor Camp: The Full Beginner's Guide
 
-*Last updated Oct 29, 2026. Matches stream overlay v0.22.0 and SharpieBot v0.29.1. Shop launch: **Fri Oct 30, 2026**. The shorter version is the Quick Start.*
+*Last updated Oct 30, 2026 (shop launch day). Matches SharpieBot v0.31.6. The shop is open. The shorter version is the Quick Start.*
 
 Hey, welcome to camp! This guide explains everything from scratch, so you don't need to know anything going in. If you get stuck, jump to the FAQ at the bottom.
 
@@ -40,7 +40,7 @@ It works on every platform Sharpie360 streams to: YouTube, Rumble, Twitch, Kick,
 - a **longer stay** in camp,
 - your **own look**: skin tone, hair color, hairstyle, body type (man or woman) and mood,
 - your **own outfit**, picked in your Discord backpack,
-- a **100 Scrap linking bonus** and, if you link before the shop opens, a spot as a **Founding Survivor** with free starter gear (see section 7),
+- a **100 Scrap linking bonus** (and if you linked before the shop opened, a spot as a **Founding Survivor** with free starter gear, see section 7),
 - the ability to move your survivor **from Discord** with `/camp join`, `/camp dance` and so on.
 
 ---
@@ -64,7 +64,7 @@ Linking connects your stream chat name (like your YouTube name) to your Discord 
    - A reply in stream chat: `Linked! Welcome to camp, YOURNAME.`
    - A DM from SharpieBot confirming the link, with "Not you? Run /camp unlink" in case it wasn't you.
    - If your survivor is already on screen, its name turns **gold** right away.
-5. **Your linking bonus:** linking earns **100 Scrap**, once. Before the shop opens it waits for you (see `/camp wallet`), and it's paid on launch day. Unlinking and linking again never pays twice.
+5. **Your linking bonus:** linking earns **100 Scrap**, once, straight into your wallet. Unlinking and linking again never pays twice.
 6. **Do it again for each platform you use.** Watch on both YouTube and Kick? Link each one with its own new code. You still get **one survivor**. When you type from the other platform, your survivor just switches its platform icon.
 
 ### Checking and removing links
@@ -101,7 +101,7 @@ Type these in the **live stream chat** on any platform (YouTube, Rumble, Twitch,
 | `!camp wave` | Your survivor waves for 3 seconds (you have to be in camp). |
 | `!camp link CODE` | Links this chat name to Discord, using the code from `/camp link`. |
 | `!camp unlink` | Unlinks this chat name (this platform only). You're a guest again. |
-| `!camp scrap WORD` | Claims a stream code shown on stream (linked only, once per code). |
+| `!camp scrap WORD` | Claims a stream code shown on stream: 20 Scrap (linked only, once per code, up to 100 a day). |
 
 Good to know:
 - **Older forms still work:** `!joincamp`, `!leavecamp`, `!dance`, `!wave`, `!linksurvivor CODE`. Typing without the space works too: `!campjoin`, `!campdance`, `!camphelp` and so on. `/camp legacycmds` in Discord lists them all.
@@ -124,7 +124,7 @@ Type these in **Sharpie360's Discord server**. Type `/camp` and Discord shows a 
 | `/camp unlink [platform]` | Removes one platform's link, or all of them if you leave it empty. |
 | `/camp linkedplatforms` | Shows which platforms you've linked. |
 | `/camp wallet` | Your Scrap, XP and rank (see section 7). |
-| `/camp daily` | Claim your daily Scrap (starts when the shop opens). |
+| `/camp daily` | Claim your daily Scrap. |
 | `/camp help` | Lists the stream chat commands and what linking gives you. |
 | `/camp legacycmds` | Lists the older chat commands that still work. |
 
@@ -134,8 +134,8 @@ Type these in **Sharpie360's Discord server**. Type `/camp` and Discord shows a 
 | `/camp look` | Pick a skin tone, hair color and hairstyle. Pick `random: True` to roll a new look (see section 8). |
 | `/camp body` | Pick your survivor's body type: Man or Woman. |
 | `/camp mood` | Pick your survivor's mood: Happy or Content (Grumpy is coming soon). |
-| `/camp backpack` | Try on your outfit and tool (see section 6). Open to everyone now. |
-| `/camp shop` | Browse and buy items (see section 7). **Not open yet.** |
+| `/camp backpack` | Try on and wear the items you own (see section 6). |
+| `/camp shop` | Browse, preview and buy items (see section 7). |
 
 ### Moving your survivor from Discord (linked members only, while the stream is on)
 | Command | Same as | What it does |
@@ -177,7 +177,7 @@ This is the part people mix up most, so here's the short version:
 | Your Scrap, XP and rank | no | `/camp wallet` |
 | Daily Scrap | no | `/camp daily` |
 | Backpack (outfits) | no | `/camp backpack` |
-| Shop (not open yet) | no | `/camp shop` |
+| Shop | no | `/camp shop` |
 | Old commands list | no | `/camp legacycmds` |
 
 **What happens if you use the wrong one:**
@@ -191,7 +191,7 @@ Memory trick: **the code is born in Discord (`/`) and used in stream chat (`!`).
 
 ## 6. Your backpack
 
-The backpack is where you **try on and wear** your Survivor Camp items. Open it in Discord with `/camp backpack`. It's open to everyone, even though the shop isn't yet.
+The backpack is where you **try on and wear** your Survivor Camp items. Open it in Discord with `/camp backpack`.
 
 ### What you see
 - **A picture on top** of your actual survivor (your body type, hairstyle, hair color, skin tone, mood and outfit), front and side view. A green "Current Outfit" label means what you're wearing now. A blurple "Trying On: X" label means you're trying something on, with a small "equip to keep it" hint under it.
@@ -215,12 +215,8 @@ The backpack is where you **try on and wear** your Survivor Camp items. Open it 
 ### Does it show on stream?
 Yes, if you're linked. Your survivor picks up the change **within about a minute, even if it's already in camp.** No need to leave and rejoin.
 
-### Pre-launch preview (right now)
-Until the shop opens, your backpack shows **every item** so you can try them all on. A line at the bottom says it's a pre-launch preview:
-- **Linked:** you'll pick **2 hats, 2 outfits and 2 tools** to keep when the shop opens.
-- **Not linked:** link your account before then to keep 2 hats, 2 outfits and 2 tools for good.
-
-When the shop opens (target **Fri Oct 30**), the backpack only shows items you **own**. New survivors start with no items. You get items by buying them in `/camp shop`, or as a Founding Survivor (section 7). Trying on is free, and looks (skin, hair, hairstyle, body, mood) are always free.
+### What's in it
+Your backpack shows the items you **own**. New survivors start with no items. You get items by buying them in `/camp shop`, or as a Founding Survivor (section 7). Looks (skin, hair, hairstyle, body, mood) are always free.
 
 Only you can press your backpack's buttons, and they stop working after 10 minutes. Just run `/camp backpack` again.
 
@@ -228,8 +224,8 @@ Only you can press your backpack's buttons, and they stop working after 10 minut
 
 ## 7. Scrap, ranks and the shop
 
-### The shop is not open yet
-The shop is **private for now** and isn't open to members. The target launch day is **Fri Oct 30, 2026**. Everything in this section describes how it will work. You can already **link your account** and **try items on** in your backpack (section 6).
+### The shop is open
+The shop opened on **Fri Oct 30, 2026**. Use `/camp shop` to browse and buy, and `/camp backpack` to wear what you own.
 
 ### Scrap and XP
 - **Scrap** is Survivor Camp's currency. You spend it in the shop. It has no real-money value.
@@ -238,9 +234,8 @@ The shop is **private for now** and isn't open to members. The target launch day
 
 ### Checking your Scrap: `/camp wallet`
 Private reply with your Scrap, XP, rank and a bar showing progress to the next rank. If you get a gift, it shows at the top.
-- **Before launch:** your Scrap shows 0, but XP and rank show what you've really earned since Oct 16. A line reads **"Waiting for Launch: N Scrap"**. That's what you'll start with on launch day (what you earned plus your 100 linking bonus, if you're linked).
 
-### How you earn Scrap (starts at launch)
+### How you earn Scrap
 | Way | How much |
 |---|---|
 | Linking bonus | **100** once, for linking a stream chat name |
@@ -248,13 +243,12 @@ Private reply with your Scrap, XP, rank and a bar showing progress to the next r
 | Chatting in Discord | 2 Scrap per message, at most one counted a minute, up to 120 a day |
 | Voice chat | 1 Scrap every 5 minutes in a voice channel with 2 or more people, up to 60 a day |
 | Watching the stream (linked) | 1 Scrap per 5 active minutes, up to 36 a day |
-| Stream codes (linked) | Type `!camp scrap WORD` when a code shows on stream. Once per code, up to 100 a day |
+| Stream codes (linked) | Type `!camp scrap WORD` when a code shows on stream: **20** Scrap, once per code, up to **100** a day |
 
-`/camp daily` only works after launch. Before then it just tells you when it starts.
-Everything you earn since **Oct 16** carries over on launch day, so you aren't starting from zero.
+Everything earned from **Oct 16** until launch carried over into your wallet, so nobody started from zero.
 
 ### What To Expect
-We ran a 14-day blind test counting what people would have earned. Real daily pace:
+Typical daily pace (from chat, voice and watching, before `/camp daily` and stream codes):
 
 | Kind Of Member | Scrap A Day |
 |---|---|
@@ -279,13 +273,11 @@ So a regular can grab a cheap starter item in about a week, and the most active 
 | Apex | 15,000 |
 
 ### Founding Survivors
-Everyone who **links before the shop opens** is a **Founding Survivor**. You get:
+Everyone who **linked before the shop opened** is a **Founding Survivor**. You get:
 - a gold **Founding Survivor** tag on your backpack picture,
 - a one-time, free **Founder Picks** tab in `/camp backpack`: choose up to **2 heads, 2 outfits and 2 tools** from the starter items (except Vollie, a premium item you buy with Scrap), then press **Lock In** and confirm **Yes, Lock In Forever**. Your picks are yours for good and can't be changed.
 
-The Founder Picks tab appears when the shop opens.
-
-### How to browse, preview and buy (once the shop is open)
+### How to browse, preview and buy
 1. Run `/camp shop`.
 2. **The top picture** shows the selected item big on the left. On the right are its name, type, set, price, and either "You'd have X left", "You need X more" or OWNED.
 3. **The card below** is a grid of 15 numbered tiles per page, in order: Heads, Bodies, Tools, then Specials.
@@ -316,7 +308,12 @@ Pick **Sets** in the dropdown. There are 5 outfit sets, each a head plus a body:
 - 3 sets per page.
 
 ### Prices (Scrap)
-The starter gear is 22 items at **75 to 300 each** (all 22 together: **2,525**). The priciest is **Vollie** (300), the volleyball with a smiley face; it's a premium item, so it isn't one of the free Founder Picks. New tiers of gear unlock over time, so Scrap you save now still has somewhere to go.
+The shop has **40 items** in three tiers, **6,085 Scrap** for everything:
+- **Starter** (22 items, 75-300, total **2,525**). **Vollie** (300), the volleyball with a smiley face, is premium, so it isn't one of the free Founder Picks.
+- **Wood** (7 items, same prices as their starter matches, total **705**).
+- **Bone** (11 items, 210-310, total **2,855**).
+
+**Starter**
 
 | Heads | | Bodies | | Tools | |
 |---|---|---|---|---|---|
@@ -333,9 +330,24 @@ The starter gear is 22 items at **75 to 300 each** (all 22 together: **2,525**).
 | | | | | Volleyball (red handprint) | 190 |
 | | | | | Vollie (volleyball with a face) | 300 |
 
-**Specials (shown as "Coming soon", can't be bought yet):** WILSON! 190, Campfire 250. (Custom hair color is free, see section 8.)
+**Wood**
+| Heads | | Bodies | | Tools | |
+|---|---|---|---|---|---|
+| Branch crown | 75 | Reed wrap | 90 | Wooden sword | 90 |
+| Carved bowl helm | 100 | Bark vest | 110 | Wooden shield | 90 |
+| | | Wooden plank armor | 150 | | |
 
-These prices are the same in the stream overlay's item list. They may still get small changes before launch.
+**Bone**
+| Heads | | Bodies | | Tools | |
+|---|---|---|---|---|---|
+| Skull helm | 240 | Fang collar | 275 | Bone knife | 210 |
+| Horn crown | 260 | Rib vest | 290 | Bone spear | 225 |
+| | | Plate armor | 310 | Bone ax | 240 |
+| | | | | Bone pickax | 240 |
+| | | | | Bone shield | 275 |
+| | | | | Bone sword | 290 |
+
+**Specials (shown as "Coming soon", can't be bought yet):** WILSON! 190, Campfire 250. There's no Hair Color special: custom hair color is free (section 8).
 
 ### Tools and what they do
 Hold one tool at a time. Every so often your survivor uses it:
@@ -378,10 +390,10 @@ Pick **Man** or **Woman**. Free. Your skin, hair, mood and outfit stay the same.
 Pick **Happy** (always smiling) or **Content** (the normal face, the default). Free. **Grumpy** is coming soon and says so if you try it.
 
 ### Outfits: `/camp backpack`
-Pick a head, a body and a tool (section 6). Right now you can try on everything. After the shop opens, you wear what you own.
+Pick a head, a body and a tool you own (section 6).
 
 ### Starter outfits
-Never touched your backpack? Until the shop opens, you get a **random starter outfit** so not everyone looks the same. It's always the same one for the same name: one body, sometimes its matching hat, and sometimes a simple tool. Once you equip something in your backpack, your choice wins. If you press **Unequip All**, you show as the plain survivor. After launch, new linked survivors start with no items, and guests still get a random starter outfit.
+Guests get a **random starter outfit** so not everyone looks the same (always the same one for the same name). Linked survivors wear what they equip in their backpack; with nothing equipped (or after **Unequip All**) you show as the plain survivor.
 
 ### Guests
 Guests always have the default skin tone and brown hair. Link up to use your own look.
@@ -397,7 +409,7 @@ Guests always have the default skin tone and brown hair. Link up to use your own
 | Look | Default skin and hair, starter outfit | Your `/camp look`, `/camp body`, `/camp mood` and `/camp backpack` picks |
 | Several platforms | One survivor per platform | **One survivor** for all your linked platforms |
 | Control from Discord | No | Yes (`/camp join`, `leave`, `dance`, `wave`) |
-| Scrap bonus and Founder Picks | No | 100 Scrap linking bonus, and Founding Survivor perks if you link before launch |
+| Scrap bonus and Founder Picks | No | 100 Scrap linking bonus, and Founding Survivor perks if you linked before launch |
 
 **Rejoin cooldown (everyone):** after your survivor leaves for any reason (time up, `!camp leave`, or removed by the streamer), you have to wait **5 minutes** before you can `!camp join` again. You'll get a "rejoin cooldown" message if you try sooner. For linked survivors, this covers all your platforms together.
 
@@ -417,7 +429,6 @@ Guests always have the default skin tone and brown hair. Link up to use your own
 - **Platform icons:** the little logo before your name shows where you last typed from. Linked on several platforms? It switches when you chat from another one.
 - **YouTube names** show without the `@`.
 - **Privacy:** the camp only knows your **public chat name**. Linking saves your platform, public chat name, a scrambled (one-way) version of your Discord ID, and your look. It never asks for or keeps passwords or tokens. If you leave the Discord server, your link data is wiped. Normal chat messages aren't saved, and link codes are hidden in the logs.
-- **Scrap before launch:** since Oct 16 the bot has been quietly counting what you'd earn (chat, voice, stream watch time). It carries over on launch day. Check `/camp wallet` to see your XP and the Scrap waiting for you.
 - **Stream down or overlay off:** Discord camp commands say camp isn't open. Your look, backpack and links are all saved, so nothing is lost.
 
 ---
@@ -426,16 +437,13 @@ Guests always have the default skin tone and brown hair. Link up to use your own
 
 **None of this is built yet.** Details, prices and timing can change.
 
-### Shop launch
-- The shop opens on **launch day, target Fri Oct 30, 2026**. Your Scrap carries over, Founding Survivors make their picks, and `/camp daily` starts.
-
 ### More ways to earn Scrap
 - **Video codes:** a hidden code word in videos, redeemed with a `/camp code` command.
 - **YouTube comment points:** linked members commenting on videos earn a little Scrap.
 - Rank rewards are planned and will never be sold in the shop.
 
 ### New items and gear
-- **New gear tiers** that unlock over time.
+- **More gear tiers** after wood and bone.
 - **Flaming arrow** for the bow.
 - **`/camp spin`**, a spin-the-wheel idea.
 
@@ -485,7 +493,7 @@ Do the linking steps in section 2 first.
 Give it about a minute. Make sure you're linked, because guests always show the default look. Also check that you pressed **Equip**: just trying something on doesn't save it.
 
 **Why is my survivor wearing something I never picked?**
-That's your starter outfit (guests and not-yet-launch survivors get one). Equip something in `/camp backpack` to change it.
+That's a guest starter outfit. Link up and equip something in `/camp backpack` to change it.
 
 **I watch on two platforms. Will I have two survivors?**
 Not if both are linked. You get one survivor, and it switches its icon to whichever platform you type from. Guests get one survivor per platform.
@@ -494,19 +502,10 @@ Not if both are linked. You get one survivor, and it switches its icon to whiche
 That's the guest limit. Link up for a longer stay (until you've been quiet for 10 minutes).
 
 **I can't open `/camp shop` or `/camp backpack`.**
-The shop isn't open to members yet. The staff can also limit these commands to certain roles for a while. If so, the bot tells you which role is needed. Also, the buttons stop after 10 minutes, so just run the command again.
-
-**When does the shop open? Can I buy things now?**
-Not yet. The target launch day is Fri Oct 30, 2026. Until then you can link your account, try items on in `/camp backpack`, and check `/camp wallet`.
-
-**My wallet says 0 Scrap but I have XP.**
-That's normal before launch. Your Scrap starts on launch day. The **Waiting for Launch** line shows what you'll start with.
-
-**`/camp daily` says it hasn't started.**
-It starts when the shop opens.
+The staff can limit these commands to certain roles for a while. If so, the bot tells you which role is needed. Also, the buttons stop after 10 minutes, so just run the command again.
 
 **What's a Founding Survivor?**
-Anyone who links their account before launch. You get a gold tag and a one-time free pick of 2 heads, 2 outfits and 2 tools from the starter items (not Vollie), in the backpack's Founder Picks tab. Link now to be one.
+Anyone who linked their account before the shop opened. They get a gold tag and a one-time free pick of 2 heads, 2 outfits and 2 tools from the starter items (not Vollie), in the backpack's Founder Picks tab. New links after launch still get the 100 Scrap bonus.
 
 **Someone asked for my password to "link" me.**
 That's a scam. Linking only ever uses the one-time code from `/camp link`. Report it to the staff.
@@ -528,7 +527,7 @@ Members don't need this part. These commands are for staff only, and every chang
 - `founder` (`add`, `remove`, `list`) changes or shows who is a Founding Survivor.
 - `setup` sets the campfire channel and the mod log channel.
 
-**Launch day:** `/sharpie shop launch` (staff, once, with a confirm) turns the shop on, carries over everyone's Scrap and saves the Founding Survivors. Then check `/campadmin founder list`, and run the launch day gift with `give-all`. The full order is in the bot's DOCS.md under "Launch Plan".
+The shop launch is done (`/sharpie shop launch` only runs once). `/campadmin founder list` shows the Founding Survivors.
 
 ---
 
