@@ -34,5 +34,6 @@ When nobody's in the channel for **1 minute**, the DJ takes a break and pauses. 
 **Staff Only**
 `/naturedj join` bring the DJ in
 `/naturedj leave` send the DJ home (it stays out until `/naturedj join`)
+`/naturedj dj` switch to the next DJ right now (or pick one with `dj:`). It shows what changed. Wait 5 minutes between uses, Discord limits picture changes
 
 Stay Sharp! 🌊
