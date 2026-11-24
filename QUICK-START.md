@@ -4,7 +4,7 @@ Survivor Camp is the pixel-art game at the bottom of the screen during our adven
 **Where You Type Commands**
 - `!` commands go in **stream chat** (YouTube, Rumble, Twitch, Kick, VP Zone)
 - `/` commands go in **Discord**
-- The **camp site** camp.sharpiethreesixty.media: sign in with Discord or Google (coming soon) to join, run actions, open your backpack and shop
+- The **camp site** camp.sharpiethreesixty.media: sign in with Discord or Google (coming soon) to join, run actions, open your backpack and shop. Beta testing only for now: ask in Discord for early access
 
 *`/` only works in Discord. Twitch and Kick block slash commands they don't know, so stream chat uses `!`.*
 
@@ -19,7 +19,7 @@ Watch on more than one platform? Link each one and control your survivor from ea
 
 **Why Link?**
 - Gold name
-- No 3-minute guest limit (you stay until 10 min without chatting)
+- No 5-minute guest limit (you stay until 20 min without chatting)
 - Your own look and gear
 - Watch-time Scrap and stream codes
 - A one-time **100 Scrap welcome bonus**
@@ -33,7 +33,7 @@ Watch on more than one platform? Link each one and control your survivor from ea
 - `!camp dance` · your Survivor dances
 - `!camp wave` · your Survivor waves
 - `!camp link CODE` · link this chat name to your Survivor
-- `!camp help` · camp replies with the command list
+- `!camp help` · SharpieBot replies with the basic command list
 
 ### 🎮 Discord (`/`)
 - `/camp link` · get a code to link your Survivor
@@ -65,12 +65,13 @@ Scavenger 60 · Forager 200 · Nomad 500 · Pathfinder 1,100 · Ranger 2,000 · 
 Coming soon: WILSON! (190) and Campfire (250).
 
 **The Camp Site** camp.sharpiethreesixty.media
+- The camp site is in beta testing right now; ask in Discord for early access.
 - Sign in with Discord or Google (coming soon). No stream chat name needed to join.
 - Walk into the **Driftwood Nest** hut to shop. Inside it, `!camp` commands don't work, so head back to camp first.
 - Backpack, Storage Chest, gifts and the Daily button live here too.
 
 **Good To Know**
-- 5 min cooldown before rejoining. Camp holds 20 survivors.
+- Camp holds 20 survivors.
 - More detail: the [Full Guide](FULL-GUIDE.md).
 
 Questions, problems or ideas? Open a post in the Discord forum with a tag. 🔥

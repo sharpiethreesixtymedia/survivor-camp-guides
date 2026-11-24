@@ -38,7 +38,7 @@ Survivor Camp is a little pixel-art game that lives at the bottom of the screen 
 
 It works on every platform Sharpie360 goes live on: **YouTube, Rumble, Twitch, Kick and VP Zone**. It doesn't matter which one you watch on. On Twitch, Kick and VP Zone, camp's chat replies come from the **SharpieBot** account.
 
-There's also a **camp site**, camp.sharpiethreesixty.media, where you can sign in, see camp, run your survivor and shop (section 5).
+There's also a **camp site**, camp.sharpiethreesixty.media, where you can sign in, see camp, run your survivor and shop (section 5). The camp site is in beta testing right now; ask in Discord for early access.
 
 **Survivor Camp is tied to the SharpieBot Discord server.** You can play as a guest with no Discord at all. If you **link** your stream chat name, you get:
 - a **gold name** (guests are white),
@@ -114,7 +114,7 @@ Good to know:
 - **Plain `!join` and `!link` are NOT camp commands.** `!join` is used for giveaways.
 - An unknown word like `!camp xyz` is ignored quietly, so chat stays clean. Emotes, walking and sitting show on screen with no chat reply.
 - `!camp` has to be at the **start** of your message.
-- Emotes have a short cooldown (about 5 seconds per person).
+- Emotes have a short cooldown (about 2 seconds per person).
 - While your survivor is inside the Driftwood Nest shop (section 9), `!camp` commands don't work. Head back to camp first.
 
 ---
@@ -156,7 +156,7 @@ Type these in **Sharpie360's Discord server**. Type `/camp` and Discord shows a 
 
 ## 5. The camp site
 
-**camp.sharpiethreesixty.media** shows camp live, on any screen, including phones.
+**camp.sharpiethreesixty.media** shows camp live, on any screen, including phones. The camp site is in beta testing right now; ask in Discord for early access.
 
 - **Sign in** with **Discord** or **Google** (coming soon). Google sign-in won't need a YouTube channel.
 - **No stream chat name needed.** Signed in, you can press **Join** (or type `!camp join` in the site chat) and walk in under your camp name. Link a stream chat name later and it's still one survivor.
@@ -331,7 +331,7 @@ All looks are **free** and set in Discord. Changes show on screen within about a
 | | Guest (chat name, not linked) | Linked survivor |
 |---|---|---|
 | Name color | White | **Gold** |
-| How long you stay | **3 minutes** from joining | Until **10 minutes without chatting** |
+| How long you stay | **5 minutes** from joining | Until **20 minutes without chatting** |
 | Look | Default look, starter outfit | Your look and gear |
 | Several platforms | One survivor per platform | **One survivor** for all |
 | Control from Discord and the camp site | No | Yes |
@@ -339,7 +339,7 @@ All looks are **free** and set in Discord. Changes show on screen within about a
 
 Signed in on the camp site with no stream chat name? You can join from the site or Discord under your camp name. Link a chat name so your stream chatting counts too.
 
-**Rejoin cooldown:** after your survivor leaves for any reason, wait **5 minutes** before joining again. Camp holds **20 survivors**, and the streamer can pause joins. *(These are the defaults; they can change during an adventure.)*
+Camp holds **20 survivors**, and the streamer can pause joins. *(These are the defaults; they can change during an adventure.)*
 
 ---
 
@@ -365,7 +365,7 @@ Signed in on the camp site with no stream chat name? You can join from the site 
 ## 14. FAQ and troubleshooting
 
 **I typed `!camp join` and nothing happened.**
-Make sure it's at the start of your message, with a space. Other reasons: camp is full, joins are paused, you're on the 5-minute rejoin cooldown, or Sharpie360 isn't live.
+Make sure it's at the start of your message, with a space. Other reasons: camp is full, joins are paused, or Sharpie360 isn't live.
 
 **I typed a `!camp` command in Discord and got a tip.**
 `!` commands go in stream chat. In Discord, use the slash version.
@@ -407,7 +407,7 @@ Every Survivor Camp command in one place. `!` commands go in **stream chat** (Yo
 **Getting in**
 - `!camp join` · your Survivor walks into camp
 - `!camp leave` · your Survivor walks out of camp
-- `!camp help` · camp replies with the command list
+- `!camp help` · SharpieBot replies with the basic command list
 - `!camp` · camp replies with a quick welcome
 
 **Moving and emotes** (your Survivor has to be in camp)
