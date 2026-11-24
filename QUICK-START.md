@@ -1,52 +1,79 @@
 # 🏕️ Survivor Camp: Quick Start
-Survivor Camp is the pixel-art game at the bottom of the stream. Type `!camp join` in stream chat and your own little survivor walks into camp. Jest the cat hangs out too. 🐈
+Survivor Camp is the pixel-art game at the bottom of the screen during our adventures. Type `!camp join` in stream chat and your own little Survivor walks into camp. Jest the cat hangs out too. 🐈
 
-**Two Kinds Of Commands**
-- **`!` commands go in STREAM chat** (YouTube, Rumble, Twitch, Kick, VP Zone)
-- **`/` commands go in DISCORD**
-Trick: the link code is born in Discord, used in stream chat.
+**Where You Type Commands**
+- `!` commands go in **stream chat** (YouTube, Rumble, Twitch, Kick, VP Zone)
+- `/` commands go in **Discord**
+- The **camp site** camp.sharpiethreesixty.media: sign in with Discord or Google (coming soon) to join, run actions, open your backpack and shop. Beta testing only for now: ask in the stream campground channel for early access
 
-**Stream Chat (`!`)**
-`!camp join` walk into camp
-`!camp leave` walk off
-`!camp dance` / `!camp wave` show off (while in camp)
-`!camp link CODE` link to Discord
-`!camp scrap WORD` grab a stream code when one pops up
-`!camp help` list commands
+*`/` only works in Discord. Twitch and Kick block slash commands they don't know, so stream chat uses `!`.*
 
-**Link Your Account (Once)**
-1. In Discord, type `/camp link`. SharpieBot privately gives you a code (one use, 10 min).
-2. Copy the whole `!camp link CODE` line.
-3. Paste it in the STREAM chat while we're live. Not in Discord!
-4. Your name turns gold and SharpieBot DMs you. Done. No passwords, ever.
+**Link Your Account (Once Per Platform)**
+1. In Discord, type `/camp link` (or press **Get Link Code** on the camp site).
+2. You get a line like `!camp link AB12CD`. The code works once, for 10 minutes.
+3. Copy that whole line.
+4. Paste it in **stream chat** while we're live. Not in Discord!
+5. Your name turns gold and SharpieBot DMs you. Done. No passwords, ever.
+
+Watch on more than one platform? Link each one and control your Survivor from each platform.
 
 **Why Link?**
-Gold name, no 3-minute guest limit (you stay until 10 min without chatting), your own look and outfit, Discord control of your survivor, a **100 Scrap bonus** (once), and free **Starter Picks**: keep **2 hats, 2 outfits and 2 tools** from the starter items forever (Starter Picks tab in `/camp backpack`, not Vollie). Link by **Sun Nov 8, 8 AM Central** and you're a **Founding Survivor**: a gold tag and you **own every starter item** except Vollie.
+- Gold name
+- No 5-minute guest limit (you stay until 20 min without chatting)
+- Your own look and gear
+- Watch-time Scrap and stream codes
+- A one-time **100 Scrap welcome bonus**
+- Free **Starter Picks**: 2 hats, 2 outfits and 2 tools in your backpack, whether you join on Discord or the camp site
 
-**Earning Scrap** (every Scrap is also 1 XP)
-`/camp daily` 15, +1 per day in a row, up to 25
-Discord chat 2 per message (one a minute), up to 120/day
-Voice chat 1 per 5 min (2+ people), up to 60/day
-Watching the stream (linked) 1 per 5 min, up to 36/day
-`!camp scrap WORD` stream codes (linked), 20 each, up to 100/day
-Typical pace: regulars make about **7-13 a day**, the most active folks **28-43**, casual drop-ins **1-4** (plus `/camp daily` and stream codes). Starter items are 75-300, so a regular can grab a cheap one in about a week.
+## Starter Commands
 
-**Ranks** (by lifetime XP)
+### 💬 Stream chat (`!`)
+- `!camp join` · your Survivor walks into camp
+- `!camp leave` · your Survivor walks out of camp
+- `!camp dance` · your Survivor dances
+- `!camp wave` · your Survivor waves
+- `!camp link CODE` · link this chat name to your Survivor
+- `!camp help` · the bot replies with the basic command list
+
+### 🎮 Discord (`/`)
+- `/camp link` · get a code to link your Survivor
+- `/camp join` · your Survivor walks into camp (while live)
+- `/camp daily` · claim your daily Scrap
+- `/camp look` · set your Survivor's skin, hair and hairstyle (free)
+- `/camp backpack` · try on and equip your Survivor's gear
+- `/camp shop` · browse and buy gear for your Survivor
+- `/camp help` · see the stream chat commands
+
+📖 Every command (walking, sitting, tool hand, stream codes and more) is in the [Command glossary](FULL-GUIDE.md#command-glossary).
+
+## Scrap, Shop & Camp Site
+
+**Earning Scrap** (earned Scrap is also XP)
+- `/camp daily` or the site's Daily button: 16 on day 1, +1 per day in a row, up to 25
+- Discord chat: 2 per message (one a minute), up to 120/day
+- Voice chat: 1 per 5 min (2+ people), up to 60/day
+- Watching live (linked): 1 per 5 min, up to 36/day
+- Stream codes (linked): usually 20, normal codes up to 100, 100/day cap. **Special Drops** up to 500 and skip the cap
+- Rank-ups: 25 bonus Scrap for Scavenger, +25 per rank, up to 225 for Apex
+
+**Ranks** (lifetime XP)
 Scavenger 60 · Forager 200 · Nomad 500 · Pathfinder 1,100 · Ranger 2,000 · Survivalist 3,750 · Legend 6,250 · Paragon 10,000 · Apex 15,000
 
-**Discord (`/`)**
-`/camp wallet` your Scrap, XP and rank
-`/camp daily` daily Scrap
-`/camp shop` browse, preview and buy gear
-`/camp backpack` try on and equip what you own
-`/camp look` skin, hair color, hairstyle (free) · `/camp body` · `/camp mood`
-`/camp join` `leave` `dance` `wave` (linked, while live)
-`/camp linkedplatforms` / `/camp unlink` manage links
+**The Shop** 🎄
+60 items to buy, including Halloween 🎃 (through December) and **Christmas**: Santa Hat 150, Santa Suit 200, Snowman Head 225, Snowman Body 200, Candy Cane Sword 175, Wrapped Gift 125, Snowball 150 (it gets thrown!), Antlers 150, Ugly Sweater 200, Twinkle Lights 150.
+
+Coming soon: WILSON! (190) and Campfire (250).
+
+**The Camp Site** camp.sharpiethreesixty.media
+- The camp site is in beta testing right now; ask in the stream campground channel for early access.
+- Sign in with Discord or Google (coming soon). No stream chat name needed to join.
+- Walk into the **Driftwood Nest** hut to shop. Inside it, `!camp` commands don't work, so head back to camp first.
+- Backpack, Storage Chest, gifts and the Daily button live here too.
 
 **Good To Know**
-- 5 min cooldown before rejoining after you leave. Camp holds 20 survivors.
-- **The shop is open!** 40 items: 22 starter, 7 wood and 11 bone, 75-310 Scrap each. Scrap earned since Oct 16 carried over at launch.
-- Coming soon: WILSON! (190) and Campfire (250). More tiers, sales and events later, so keep stacking Scrap.
+- Camp holds 20 Survivors.
+- More detail: the [Full Guide](FULL-GUIDE.md).
 
-Questions, problems or ideas? Open a post here with a tag. 🔥
+Questions, problems or ideas? Open a post in the Discord forum with a tag. 🔥
+
 Stay Sharp! 🔪
