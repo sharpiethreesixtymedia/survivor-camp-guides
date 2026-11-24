@@ -33,7 +33,7 @@ Watch on more than one platform? Link each one and control your Survivor from ea
 - `!camp dance` · your Survivor dances
 - `!camp wave` · your Survivor waves
 - `!camp link CODE` · link this chat name to your Survivor
-- `!camp help` · SharpieBot replies with the basic command list
+- `!camp help` · the bot replies with the basic command list
 
 ### 🎮 Discord (`/`)
 - `/camp link` · get a code to link your Survivor

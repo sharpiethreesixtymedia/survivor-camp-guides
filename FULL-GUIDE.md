@@ -407,7 +407,7 @@ Every Survivor Camp command in one place. `!` commands go in **stream chat** (Yo
 **Getting in**
 - `!camp join` · your Survivor walks into camp
 - `!camp leave` · your Survivor walks out of camp
-- `!camp help` · SharpieBot replies with the basic command list
+- `!camp help` · the bot replies with the basic command list
 - `!camp` · camp replies with a quick welcome
 
 **Moving and emotes** (your Survivor has to be in camp)
