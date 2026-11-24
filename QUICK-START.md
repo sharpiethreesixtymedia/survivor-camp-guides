@@ -25,71 +25,26 @@ Watch on more than one platform? Link each one. You still get one survivor.
 - A one-time **100 Scrap welcome bonus**
 - Free **Starter Picks**: 2 hats, 2 outfits, 2 tools in `/camp backpack`
 
-## Commands
+## Starter Commands
+
 ### 💬 Stream chat (`!`)
-
-**Getting in**
-- `!camp join` walk into camp
-- `!camp leave` walk out
-- `!camp help` list the commands
-
-**Moving and emotes**
-- `!camp dance` dance
-- `!camp wave` wave
-- `!camp spin` spin
-- `!camp dance2` disco dance
-- `!camp cheer` cheer
-- `!camp left` / `!camp right` walk that way
-- `!camp stop` stop walking
-- `!camp goto 50` walk to a spot (0 far left, 100 far right)
-- `!camp sit` sit down
-- `!camp watch` sit and watch
-- `!camp getup` stand up
-
-**Look and gear**
-- `!camp hand left` / `!camp hand right` tool hand
-- `!camp hand swap` switch hands
-- `!camp hand empty` put the tool away
-
-**Scrap**
-- `!camp scrap WORD` claim a stream code
-
-**Account**
-- `!camp link CODE` link this chat name
-- `!camp unlink` unlink this chat name
+- `!camp join` · your Survivor walks into camp
+- `!camp leave` · your Survivor walks out of camp
+- `!camp dance` · your Surv dances
+- `!camp wave` · your Surv waves
+- `!camp link CODE` · link this chat name to your Survivor
+- `!camp help` · camp replies with the command list
 
 ### 🎮 Discord (`/`)
+- `/camp link` · get a code to link your Survivor
+- `/camp join` · your Survivor walks into camp (while live)
+- `/camp daily` · claim your daily Scrap
+- `/camp look` · set your Surv's skin, hair and hairstyle (free)
+- `/camp backpack` · try on and equip your Surv's gear
+- `/camp shop` · browse and buy gear for your Surv
+- `/camp help` · see the stream chat commands
 
-**Getting in** (while live)
-- `/camp join` walk into camp
-- `/camp leave` walk out
-
-**Moving and emotes**
-- `/camp dance` dance
-- `/camp wave` wave
-- `/camp dance2` disco dance
-- `/camp cheer` cheer
-- `/camp sit` sit down
-- `/camp watch` sit and watch
-- `/camp getup` stand up
-
-**Look and gear**
-- `/camp look` skin, hair, hairstyle (free)
-- `/camp body` Man or Woman
-- `/camp mood` Happy, Content, Grumpy
-- `/camp hand` tool hand
-- `/camp backpack` try on and equip
-
-**Scrap and shop**
-- `/camp wallet` Scrap, XP and rank
-- `/camp daily` daily Scrap
-- `/camp shop` browse, buy and sell
-
-**Account**
-- `/camp link` get a link code
-- `/camp linkedplatforms` see your links
-- `/camp unlink` remove a link
-- `/camp help` the command list
+📖 Every command (walking, sitting, tool hand, stream codes and more) is in the [Command glossary](FULL-GUIDE.md#command-glossary).
 
 ## Scrap, Shop & Camp Site
 

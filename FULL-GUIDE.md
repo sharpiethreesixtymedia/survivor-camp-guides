@@ -22,6 +22,8 @@ Hey, welcome to camp! This guide explains everything from scratch, so you don't 
 13. Coming soon
 14. FAQ and troubleshooting
 
+[Command glossary](#command-glossary): every command in one list.
+
 ---
 
 ## 1. What Survivor Camp is
@@ -84,6 +86,8 @@ Linking connects your stream chat name (like your YouTube name) to your survivor
 ---
 
 ## 3. Stream chat commands (the `!` ones)
+
+Short on time? The [Command glossary](#command-glossary) lists every command with a one-line description.
 
 Type these in the **live stream chat**. Every command is `!camp`, a space, then a word. They aren't case-sensitive.
 
@@ -389,6 +393,86 @@ That's a scam. Linking only ever uses the one-time code. Report it to the staff.
 
 **How do I stop being linked?**
 `/camp unlink` in Discord, **Unlink** in Stream Links, or `!camp unlink` from the name you want to unlink.
+
+---
+
+## Command glossary
+
+Every Survivor Camp command in one place. `!` commands go in **stream chat** (YouTube, Rumble, Twitch, Kick, VP Zone). `/` commands go in **Discord**.
+
+*`/` only works in Discord. Twitch and Kick block slash commands they don't know, so stream chat uses `!`.*
+
+### 💬 Stream chat (`!`)
+
+**Getting in**
+- `!camp join` · your Survivor walks into camp
+- `!camp leave` · your Survivor walks out of camp
+- `!camp help` · camp replies with the command list
+- `!camp` · camp replies with a quick welcome
+
+**Moving and emotes** (your Surv has to be in camp)
+- `!camp dance` · your Surv dances
+- `!camp wave` · your Surv waves
+- `!camp spin` · your Surv spins in place
+- `!camp dance2` · your Surv does a disco dance
+- `!camp cheer` · your Surv cheers with fist pumps
+- `!camp left` · your Surv walks left
+- `!camp right` · your Surv walks right
+- `!camp stop` · your Surv stops walking
+- `!camp goto 50` · your Surv walks to a spot (0 = far left, 100 = far right)
+- `!camp sit` · your Surv sits down where it is
+- `!camp watch` · your Surv sits facing away to watch the adventure
+- `!camp getup` · your Surv stands back up
+
+**Look and gear**
+- `!camp hand left` · your Surv holds its tool in the left hand
+- `!camp hand right` · your Surv holds its tool in the right hand
+- `!camp hand swap` · your Surv switches its tool to the other hand
+- `!camp hand empty` · your Surv puts its tool away (it stays in your backpack)
+
+**Scrap**
+- `!camp scrap WORD` · claim a stream code shown on screen for Scrap (linked Survivors)
+
+**Account**
+- `!camp link CODE` · link this chat name to your Survivor, using the code from `/camp link`
+- `!camp unlink` · unlink this chat name (this platform only)
+
+Older forms still work: `!joincamp`, `!leavecamp`, `!dance`, `!wave`, `!spin`, `!linksurvivor CODE`, and every command typed without the space (`!campjoin`).
+
+### 🎮 Discord (`/`)
+
+**Getting in** (while live; linked, or signed in on the camp site with Discord)
+- `/camp join` · your Survivor walks into camp
+- `/camp leave` · your Survivor walks out of camp
+
+**Moving and emotes**
+- `/camp dance` · your Surv dances
+- `/camp wave` · your Surv waves
+- `/camp dance2` · your Surv does a disco dance
+- `/camp cheer` · your Surv cheers with fist pumps
+- `/camp sit` · your Surv sits down where it is
+- `/camp watch` · your Surv sits facing away to watch the adventure
+- `/camp getup` · your Surv stands back up
+
+**Look and gear**
+- `/camp look` · set your Surv's skin tone, hair color and hairstyle (free; `random:True` rolls a new look)
+- `/camp body` · set your Surv's body type: Man or Woman
+- `/camp mood` · set your Surv's face: Happy, Content or Grumpy
+- `/camp hand` · set your Surv's dominant hand (Left, Right, Swap, or Empty to put the tool away)
+- `/camp backpack` · try on and equip your Surv's gear
+
+**Scrap and shop**
+- `/camp wallet` · see your Scrap, XP and rank
+- `/camp daily` · claim your daily Scrap
+- `/camp shop` · browse, preview, buy and sell gear for your Surv
+- `/camp sell` · sell an item you bought back for what you paid
+
+**Account**
+- `/camp link` · get a one-time code to link a stream chat name to your Survivor
+- `/camp linkedplatforms` · see which chat names are linked to your Survivor
+- `/camp unlink` · unlink one platform, or all of them
+- `/camp help` · see the stream chat commands
+- `/camp legacycmds` · see the older chat commands that still work
 
 ---
 
