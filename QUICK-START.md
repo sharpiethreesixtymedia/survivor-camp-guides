@@ -1,10 +1,10 @@
 # 🏕️ Survivor Camp: Quick Start
-Survivor Camp is the pixel-art game at the bottom of the screen during our adventures. Type `!camp join` in stream chat and your own little survivor walks into camp. Jest the cat hangs out too. 🐈
+Survivor Camp is the pixel-art game at the bottom of the screen during our adventures. Type `!camp join` in stream chat and your own little Survivor walks into camp. Jest the cat hangs out too. 🐈
 
 **Where You Type Commands**
 - `!` commands go in **stream chat** (YouTube, Rumble, Twitch, Kick, VP Zone)
 - `/` commands go in **Discord**
-- The **camp site** camp.sharpiethreesixty.media: sign in with Discord or Google (coming soon) to join, run actions, open your backpack and shop. Beta testing only for now: ask in Discord for early access
+- The **camp site** camp.sharpiethreesixty.media: sign in with Discord or Google (coming soon) to join, run actions, open your backpack and shop. Beta testing only for now: ask in the stream campground channel for early access
 
 *`/` only works in Discord. Twitch and Kick block slash commands they don't know, so stream chat uses `!`.*
 
@@ -15,7 +15,7 @@ Survivor Camp is the pixel-art game at the bottom of the screen during our adven
 4. Paste it in **stream chat** while we're live. Not in Discord!
 5. Your name turns gold and SharpieBot DMs you. Done. No passwords, ever.
 
-Watch on more than one platform? Link each one and control your survivor from each platform.
+Watch on more than one platform? Link each one and control your Survivor from each platform.
 
 **Why Link?**
 - Gold name
@@ -54,7 +54,6 @@ Watch on more than one platform? Link each one and control your survivor from ea
 - Voice chat: 1 per 5 min (2+ people), up to 60/day
 - Watching live (linked): 1 per 5 min, up to 36/day
 - Stream codes (linked): usually 20, normal codes up to 100, 100/day cap. **Special Drops** up to 500 and skip the cap
-- Rank-ups: 25 bonus Scrap for Scavenger, +25 per rank, up to 225 for Apex
 
 **Ranks** (lifetime XP)
 Scavenger 60 · Forager 200 · Nomad 500 · Pathfinder 1,100 · Ranger 2,000 · Survivalist 3,750 · Legend 6,250 · Paragon 10,000 · Apex 15,000
@@ -65,13 +64,13 @@ Scavenger 60 · Forager 200 · Nomad 500 · Pathfinder 1,100 · Ranger 2,000 · 
 Coming soon: WILSON! (190) and Campfire (250).
 
 **The Camp Site** camp.sharpiethreesixty.media
-- The camp site is in beta testing right now; ask in Discord for early access.
+- The camp site is in beta testing right now; ask in the stream campground channel for early access.
 - Sign in with Discord or Google (coming soon). No stream chat name needed to join.
 - Walk into the **Driftwood Nest** hut to shop. Inside it, `!camp` commands don't work, so head back to camp first.
 - Backpack, Storage Chest, gifts and the Daily button live here too.
 
 **Good To Know**
-- Camp holds 20 survivors.
+- Camp holds 20 Survivors.
 - More detail: the [Full Guide](FULL-GUIDE.md).
 
 Questions, problems or ideas? Open a post in the Discord forum with a tag. 🔥

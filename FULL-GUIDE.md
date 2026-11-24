@@ -16,8 +16,8 @@ Hey, welcome to camp! This guide explains everything from scratch, so you don't 
 7. Your backpack
 8. Scrap, ranks and earning
 9. The shop
-10. Customizing your survivor's look
-11. Guests vs linked survivors
+10. Customizing your Survivor's look
+11. Guests vs linked Survivors
 12. Other stuff worth knowing
 13. Coming soon
 14. FAQ and troubleshooting
@@ -30,15 +30,15 @@ Hey, welcome to camp! This guide explains everything from scratch, so you don't 
 
 Survivor Camp is a little pixel-art game that lives at the bottom of the screen during Sharpie360's adventures.
 
-- You type `!camp join` in stream chat, and your own tiny survivor walks onto the screen.
-- Your survivor wanders around camp. You can make it dance, wave, cheer, sit down or walk somewhere.
-- If your survivor is holding a tool, it uses it now and then on its own: chops a stump, fishes in a puddle, shoots an arrow, throws a snowball, and so on.
-- Your name floats above your survivor, with a small icon for the platform you're chatting from.
+- You type `!camp join` in stream chat, and your own tiny Survivor walks onto the screen.
+- Your Survivor wanders around camp. You can make it dance, wave, cheer, sit down or walk somewhere.
+- If your Survivor is holding a tool, it uses it now and then on its own: chops a stump, fishes in a puddle, shoots an arrow, throws a snowball, and so on.
+- Your name floats above your Survivor, with a small icon for the platform you're chatting from.
 - **Jest**, Sharpie360's black cat and the channel mascot, roams camp too. She has a purple name tag. She's not a viewer, so she never takes your spot.
 
 It works on every platform Sharpie360 goes live on: **YouTube, Rumble, Twitch, Kick and VP Zone**. It doesn't matter which one you watch on. On Twitch, Kick and VP Zone, camp's chat replies come from the **SharpieBot** account.
 
-There's also a **camp site**, camp.sharpiethreesixty.media, where you can sign in, see camp, run your survivor and shop (section 5). The camp site is in beta testing right now; ask in Discord for early access.
+There's also a **camp site**, camp.sharpiethreesixty.media, where you can sign in, see camp, run your Survivor and shop (section 5). The camp site is in beta testing right now; ask in the stream campground channel for early access.
 
 **Survivor Camp is tied to the SharpieBot Discord server.** You can play as a guest with no Discord at all. If you **link** your stream chat name, you get:
 - a **gold name** (guests are white),
@@ -47,13 +47,13 @@ There's also a **camp site**, camp.sharpiethreesixty.media, where you can sign i
 - your **own outfit**, picked in your backpack,
 - watch-time Scrap and stream codes (section 8),
 - a one-time **100 Scrap welcome bonus** and free **Starter Picks** (section 7),
-- control of your survivor **from Discord** and the camp site.
+- control of your Survivor **from Discord** and the camp site.
 
 ---
 
 ## 2. Linking your account (step by step)
 
-Linking connects your stream chat name (like your YouTube name) to your survivor. **You never share a password, login or token.** All you use is a short one-time code.
+Linking connects your stream chat name (like your YouTube name) to your Survivor. **You never share a password, login or token.** All you use is a short one-time code.
 
 ### Steps
 1. **Get your code.** Either:
@@ -63,8 +63,8 @@ Linking connects your stream chat name (like your YouTube name) to your survivor
 2. **Copy the whole command**: `!camp link YOURCODE`.
 3. **Paste it into the STREAM chat** on the platform you're watching, while Sharpie360 is live.
    - **Not in Discord!** If you paste it in Discord by mistake, SharpieBot deletes your message to keep your code safe and tells you it belongs in stream chat. Your code still works. (If the bot couldn't delete it, it cancels that code, and you'll need a fresh one.)
-4. **Check that it worked.** You'll get a reply in stream chat (`Linked! Welcome to camp, YOURNAME.`), a DM from SharpieBot, and your survivor's name turns **gold** right away.
-5. **Do it again for each platform you use**, and control your **one survivor** from each platform. When you type from another platform, your survivor just switches its platform icon.
+4. **Check that it worked.** You'll get a reply in stream chat (`Linked! Welcome to camp, YOURNAME.`), a DM from SharpieBot, and your Survivor's name turns **gold** right away.
+5. **Do it again for each platform you use**, and control your **one Survivor** from each platform. When you type from another platform, your Survivor just switches its platform icon.
 
 ### Checking and removing links
 - `/camp linkedplatforms` in Discord, or the **Stream Links** panel on the camp site, shows your linked names.
@@ -95,8 +95,8 @@ Type these in the **live stream chat**. Every command is `!camp`, a space, then 
 |---|---|
 | `!camp` | A quick welcome message. |
 | `!camp help` | Lists the commands in one line. |
-| `!camp join` | Your survivor walks into camp (if there's room). |
-| `!camp leave` | Your survivor walks off screen. |
+| `!camp join` | Your Survivor walks into camp (if there's room). |
+| `!camp leave` | Your Survivor walks off screen. |
 | `!camp dance` / `wave` / `spin` | Emotes (you have to be in camp). |
 | `!camp dance2` / `cheer` | A disco dance, or fist pumps with hops. |
 | `!camp left` / `right` / `stop` | Walk left, walk right, or stop. |
@@ -115,7 +115,7 @@ Good to know:
 - An unknown word like `!camp xyz` is ignored quietly, so chat stays clean. Emotes, walking and sitting show on screen with no chat reply.
 - `!camp` has to be at the **start** of your message.
 - Emotes have a short cooldown (about 2 seconds per person).
-- While your survivor is inside the Driftwood Nest shop (section 9), `!camp` commands don't work. Head back to camp first.
+- While your Survivor is inside the Driftwood Nest shop (section 9), `!camp` commands don't work. Head back to camp first.
 
 ---
 
@@ -145,7 +145,7 @@ Type these in **Sharpie360's Discord server**. Type `/camp` and Discord shows a 
 | `/camp shop` | Browse, preview, buy and sell (section 9). |
 | `/camp sell` | Sell an item you bought back for what you paid. |
 
-### Moving your survivor from Discord (while live)
+### Moving your Survivor from Discord (while live)
 `/camp join`, `/camp leave`, `/camp dance`, `/camp wave`, `/camp dance2`, `/camp cheer`, `/camp sit`, `/camp watch`, `/camp getup` work just like the `!camp` versions.
 
 - They work if you've linked a stream chat name **or** signed in on the camp site with Discord.
@@ -156,16 +156,16 @@ Type these in **Sharpie360's Discord server**. Type `/camp` and Discord shows a 
 
 ## 5. The camp site
 
-**camp.sharpiethreesixty.media** shows camp live, on any screen, including phones. The camp site is in beta testing right now; ask in Discord for early access.
+**camp.sharpiethreesixty.media** shows camp live, on any screen, including phones. The camp site is in beta testing right now; ask in the stream campground channel for early access.
 
 - **Sign in** with **Discord** or **Google** (coming soon). Google sign-in won't need a YouTube channel.
-- **No stream chat name needed.** Signed in, you can press **Join** (or type `!camp join` in the site chat) and walk in under your camp name. Link a stream chat name later and it's still one survivor.
+- **No stream chat name needed.** Signed in, you can press **Join** (or type `!camp join` in the site chat) and walk in under your camp name. Link a stream chat name later and it's still one Survivor.
 - **Actions:** join, leave, emotes, walk left/right/stop, Go To (press it, then tap the spot), hands. On a keyboard: A or ← walks left, D or → walks right, S or ↓ stops.
 - **Daily button:** claim your daily Scrap here or with `/camp daily`. Once a day either way.
 - **Backpack:** your items, the Storage Chest and gifts (section 7).
 - **Driftwood Nest:** the shop hut in camp (section 9).
 - **Stream Links:** your linked chat names, Get Link Code, and Unlink.
-- **Anchored Accounts** (in Settings): the sign-ins that open your survivor. Add a second one (say Google as well as Discord, once Google sign-in is live) so you can sign in either way. You always keep at least one. Already have a survivor? Sign in with that account first, so you don't start a new one by mistake.
+- **Anchored Accounts** (in Settings): the sign-ins that open your Survivor. Add a second one (say Google as well as Discord, once Google sign-in is live) so you can sign in either way. You always keep at least one. Already have a Survivor? Sign in with that account first, so you don't start a new one by mistake.
 - You stay signed in for 30 days while you keep using the site.
 
 ---
@@ -199,11 +199,11 @@ Memory trick: **the code is born in Discord (or the camp site) and used in strea
 The backpack is where you **try on and wear** your items. Open it with `/camp backpack` in Discord or **Backpack** on the camp site.
 
 - You wear **one head, one body, one tool and one accessory** at a time.
-- In Discord: pick a tab (All items, Heads, Bodies, Tools, Accessories), tap a number to **try it on**, then press **Equip** to keep it. **Unequip all** shows the plain survivor. Buttons stop after 10 minutes; just run it again.
+- In Discord: pick a tab (All items, Heads, Bodies, Tools, Accessories), tap a number to **try it on**, then press **Equip** to keep it. **Unequip all** shows the plain Survivor. Buttons stop after 10 minutes; just run it again.
 - On the camp site: tap or double-tap an item to equip it. The backpack holds 50 items.
 - **Storage Chest** (camp site): extra room for gear. Tier I is 24 slots for 500 Scrap, II is 48 for 1,000, III is 96 for 2,000. Store, Take or Swap items between the backpack and the chest.
-- **Gifts** (camp site): give an item you **bought** to another survivor. If they already own it, you can pick a different item or send its Scrap value instead. Free items can't be gifted. A gift you receive shows a pop-up and a NEW mark.
-- Changes show on screen **within about a minute**, even if your survivor is already in camp.
+- **Gifts** (camp site): give an item you **bought** to another Survivor. If they already own it, you can pick a different item or send its Scrap value instead. Free items can't be gifted. A gift you receive shows a pop-up and a NEW mark.
+- Changes show on screen **within about a minute**, even if your Survivor is already in camp.
 
 ### Starter Picks
 Linked members get a one-time, free **Starter Picks** tab in `/camp backpack`: choose up to **2 heads, 2 outfits and 2 tools** from the starter items (not Vollie), then press **Lock In** and confirm. Your picks are yours for good and can't be changed.
@@ -229,23 +229,22 @@ Everyone who linked by **Sun Nov 8, 2026, 8 AM Central** is a **Founding Survivo
 | Voice chat | 1 every 5 minutes with 2 or more people, up to 60 a day |
 | Watching live (linked) | 1 per 5 active minutes, up to 36 a day |
 | Stream codes (linked) | `!camp scrap WORD` when a code shows on screen. Usually **20**. Normal codes pay up to **100**, with a **100 a day** cap. **Special Drops** pay up to **500** and skip the daily cap. Once per code. |
-| Rank-ups | Bonus Scrap for each new rank (see below). Rank bonus Scrap isn't XP. |
 
 Typical pace: regulars make about **7-13 a day**, the most active folks **28-43**, casual drop-ins **1-4** (before the daily and stream codes).
 
 ### Ranks
-| Rank | XP needed | Rank-up bonus |
-|---|---|---|
-| Castaway | 0 | |
-| Scavenger | 60 | 25 |
-| Forager | 200 | 50 |
-| Nomad | 500 | 75 |
-| Pathfinder | 1,100 | 100 |
-| Ranger | 2,000 | 125 |
-| Survivalist | 3,750 | 150 |
-| Legend | 6,250 | 175 |
-| Paragon | 10,000 | 200 |
-| Apex | 15,000 | 225 |
+| Rank | XP needed |
+|---|---|
+| Castaway | 0 |
+| Scavenger | 60 |
+| Forager | 200 |
+| Nomad | 500 |
+| Pathfinder | 1,100 |
+| Ranger | 2,000 |
+| Survivalist | 3,750 |
+| Legend | 6,250 |
+| Paragon | 10,000 |
+| Apex | 15,000 |
 
 When you rank up, camp says so in stream chat and on the camp site.
 
@@ -254,8 +253,8 @@ When you rank up, camp says so in stream chat and on the camp site.
 ## 9. The shop
 
 Shop two ways:
-- **Discord:** `/camp shop`. Filters: All, Heads, Bodies, Tools, Accessories, Holidays, Specials, Sets. **Preview** shows the item alone or on your survivor. **Buy** asks you to confirm. **Sell** shows on items you can sell.
-- **The Driftwood Nest** on the camp site: click the hut in camp (or the Shop tab) and your survivor walks in. Walk with W A S D or the arrows (a pad on phones), and press **E** at the counter to open the shop window. **Leave Shop** or the stairs take you back out.
+- **Discord:** `/camp shop`. Filters: All, Heads, Bodies, Tools, Accessories, Holidays, Specials, Sets. **Preview** shows the item alone or on your Survivor. **Buy** asks you to confirm. **Sell** shows on items you can sell.
+- **The Driftwood Nest** on the camp site: click the hut in camp (or the Shop tab) and your Survivor walks in. Walk with W A S D or the arrows (a pad on phones), and press **E** at the counter to open the shop window. **Leave Shop** or the stairs take you back out.
 
 You can't be charged twice, and your balance can't go below zero.
 
@@ -310,11 +309,11 @@ You can't be charged twice, and your balance can't go below zero.
 **Coming soon:** WILSON! (190) and Campfire (250).
 
 ### Tools and what they do
-Every so often your survivor uses its tool: the stone knife whittles, the torch flickers, spears jab, the flask and bottle take a drink, the slingshot and bow shoot across the screen, the axes chop a stump, the pickaxes swing at a rock, the fishing pole casts into a puddle, swords (including the Candy Cane Sword) swing, and the **Snowball** gets thrown. The volleyballs, shields, Lantern, Compass, Carved Totem, TOT Bag and Wrapped Gift are just held or carried.
+Every so often your Survivor uses its tool: the stone knife whittles, the torch flickers, spears jab, the flask and bottle take a drink, the slingshot and bow shoot across the screen, the axes chop a stump, the pickaxes swing at a rock, the fishing pole casts into a puddle, swords (including the Candy Cane Sword) swing, and the **Snowball** gets thrown. The volleyballs, shields, Lantern, Compass, Carved Totem, TOT Bag and Wrapped Gift are just held or carried.
 
 ---
 
-## 10. Customizing your survivor's look
+## 10. Customizing your Survivor's look
 
 All looks are **free** and set in Discord. Changes show on screen within about a minute.
 
@@ -326,26 +325,26 @@ All looks are **free** and set in Discord. Changes show on screen within about a
 
 ---
 
-## 11. Guests vs linked survivors
+## 11. Guests vs linked Survivors
 
-| | Guest (chat name, not linked) | Linked survivor |
+| | Guest (chat name, not linked) | Linked Survivor |
 |---|---|---|
 | Name color | White | **Gold** |
 | How long you stay | **5 minutes** from joining | Until **20 minutes without chatting** |
 | Look | Default look, starter outfit | Your look and gear |
-| Several platforms | One survivor per platform | **One survivor** for all |
+| Several platforms | One Survivor per platform | **One Survivor** for all |
 | Control from Discord and the camp site | No | Yes |
 | Watch Scrap and stream codes | No | Yes |
 
 Signed in on the camp site with no stream chat name? You can join from the site or Discord under your camp name. Link a chat name so your stream chatting counts too.
 
-Camp holds **20 survivors**, and the streamer can pause joins. *(These are the defaults; they can change during an adventure.)*
+Camp holds **20 Survivors**, and the streamer can pause joins. *(These are the defaults; they can change during an adventure.)*
 
 ---
 
 ## 12. Other stuff worth knowing
 
-- **Jest the cat:** Sharpie360's black polydactyl cat. She wanders, sits, naps and sometimes sits next to a survivor. Only the streamer controls her.
+- **Jest the cat:** Sharpie360's black polydactyl cat. She wanders, sits, naps and sometimes sits next to a Survivor. Only the streamer controls her.
 - **Platform icons:** the little logo before your name shows where you last typed from. YouTube names show without the `@`.
 - **Privacy:** camp only knows your **public chat name**. Linking saves your platform, public chat name, a scrambled (one-way) version of your Discord ID, and your look. Google sign-in (coming soon) shares your email and name to sign you in, but camp stores only the account id. Passwords and tokens are never asked for or kept. Link codes are hidden in the logs.
 - **Not live:** Discord camp commands say camp isn't open. Your look, items and links are all saved.
@@ -355,8 +354,8 @@ Camp holds **20 survivors**, and the streamer can pause joins. *(These are the d
 ## 13. Coming soon
 
 **Not built yet.** Details and timing can change.
-- **WILSON!** (190): your survivor holds up the volleyball and yells "WILSON!"
-- **Campfire** (250): an add-on survivors can gather around.
+- **WILSON!** (190): your Survivor holds up the volleyball and yells "WILSON!"
+- **Campfire** (250): an add-on Survivors can gather around.
 - More gear tiers, sales, and events like double Scrap.
 - Facial hair, a pet-Jest animation, and rank rewards (never sold in the shop).
 
@@ -379,10 +378,10 @@ Link a chat name (section 2) or sign in on the camp site with Discord, then try 
 **My commands stopped working on the camp site.**
 You're probably inside the Driftwood Nest. Leave the shop first.
 
-**I changed my outfit but my survivor didn't change.**
+**I changed my outfit but my Survivor didn't change.**
 Give it about a minute, and check that you pressed **Equip** (trying on doesn't save).
 
-**I watch on two platforms. Will I have two survivors?**
+**I watch on two platforms. Will I have two Survivors?**
 Not if both are linked. Guests get one per platform.
 
 **I can't sell or gift an item.**
