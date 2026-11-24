@@ -229,22 +229,23 @@ Everyone who linked by **Sun Nov 8, 2026, 8 AM Central** is a **Founding Survivo
 | Voice chat | 1 every 5 minutes with 2 or more people, up to 60 a day |
 | Watching live (linked) | 1 per 5 active minutes, up to 36 a day |
 | Stream codes (linked) | `!camp scrap WORD` when a code shows on screen. Usually **20**. Normal codes pay up to **100**, with a **100 a day** cap. **Special Drops** pay up to **500** and skip the daily cap. Once per code. |
+| Rank-ups | Bonus Scrap for each new rank (see below). Rank bonus Scrap isn't XP. |
 
 Typical pace: regulars make about **7-13 a day**, the most active folks **28-43**, casual drop-ins **1-4** (before the daily and stream codes).
 
 ### Ranks
-| Rank | XP needed |
-|---|---|
-| Castaway | 0 |
-| Scavenger | 60 |
-| Forager | 200 |
-| Nomad | 500 |
-| Pathfinder | 1,100 |
-| Ranger | 2,000 |
-| Survivalist | 3,750 |
-| Legend | 6,250 |
-| Paragon | 10,000 |
-| Apex | 15,000 |
+| Rank | XP needed | Rank-up bonus |
+|---|---|---|
+| Castaway | 0 | |
+| Scavenger | 60 | 25 |
+| Forager | 200 | 50 |
+| Nomad | 500 | 75 |
+| Pathfinder | 1,100 | 100 |
+| Ranger | 2,000 | 125 |
+| Survivalist | 3,750 | 150 |
+| Legend | 6,250 | 175 |
+| Paragon | 10,000 | 200 |
+| Apex | 15,000 | 225 |
 
 When you rank up, camp says so in stream chat and on the camp site.
 

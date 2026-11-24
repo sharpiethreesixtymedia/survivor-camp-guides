@@ -54,6 +54,7 @@ Watch on more than one platform? Link each one and control your Survivor from ea
 - Voice chat: 1 per 5 min (2+ people), up to 60/day
 - Watching live (linked): 1 per 5 min, up to 36/day
 - Stream codes (linked): usually 20, normal codes up to 100, 100/day cap. **Special Drops** up to 500 and skip the cap
+- Rank-ups: 25 bonus Scrap for Scavenger, +25 per rank, up to 225 for Apex
 
 **Ranks** (lifetime XP)
 Scavenger 60 · Forager 200 · Nomad 500 · Pathfinder 1,100 · Ranger 2,000 · Survivalist 3,750 · Legend 6,250 · Paragon 10,000 · Apex 15,000
