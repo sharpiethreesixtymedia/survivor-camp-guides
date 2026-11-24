@@ -206,7 +206,7 @@ The backpack is where you **try on and wear** your items. Open it with `/camp ba
 - Changes show on screen **within about a minute**, even if your Survivor is already in camp.
 
 ### Starter Picks
-Linked members get a one-time, free **Starter Picks** tab in `/camp backpack`: choose up to **2 heads, 2 outfits and 2 tools** from the starter items (not Vollie), then press **Lock In** and confirm. Your picks are yours for good and can't be changed.
+Linked members get a one-time, free **Starter Picks** tab in `/camp backpack`: choose up to **2 heads, 2 outfits and 2 tools** from the starter items (not Vollie), then press **Lock In** and confirm. The same picker is in the backpack on the camp site. Your picks are yours for good and can't be changed.
 
 ### Founding Survivors
 Everyone who linked by **Sun Nov 8, 2026, 8 AM Central** is a **Founding Survivor**: a gold tag on the backpack picture, a gold glow in camp, the Founding Survivor Discord role, and every starter item except Vollie, free. That window has closed.
