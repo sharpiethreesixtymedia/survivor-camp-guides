@@ -4,7 +4,7 @@ Survivor Camp is the pixel-art game at the bottom of the screen during our adven
 **Where You Type Commands**
 - `!` commands go in **stream chat** (YouTube, Rumble, Twitch, Kick, VP Zone)
 - `/` commands go in **Discord**
-- The **camp site** camp.sharpiethreesixty.media: sign in with Discord or Google to join, run actions, open your backpack and shop
+- The **camp site** camp.sharpiethreesixty.media: sign in with Discord or Google (coming soon) to join, run actions, open your backpack and shop
 
 *`/` only works in Discord. Twitch and Kick block slash commands they don't know, so stream chat uses `!`.*
 
@@ -15,7 +15,7 @@ Survivor Camp is the pixel-art game at the bottom of the screen during our adven
 4. Paste it in **stream chat** while we're live. Not in Discord!
 5. Your name turns gold and SharpieBot DMs you. Done. No passwords, ever.
 
-Watch on more than one platform? Link each one. You still get one survivor.
+Watch on more than one platform? Link each one and control your survivor from each platform.
 
 **Why Link?**
 - Gold name
@@ -23,15 +23,15 @@ Watch on more than one platform? Link each one. You still get one survivor.
 - Your own look and gear
 - Watch-time Scrap and stream codes
 - A one-time **100 Scrap welcome bonus**
-- Free **Starter Picks**: 2 hats, 2 outfits, 2 tools in `/camp backpack`
+- Free **Starter Picks**: 2 hats, 2 outfits and 2 tools in your backpack, whether you join on Discord or the camp site
 
 ## Starter Commands
 
 ### 💬 Stream chat (`!`)
 - `!camp join` · your Survivor walks into camp
 - `!camp leave` · your Survivor walks out of camp
-- `!camp dance` · your Surv dances
-- `!camp wave` · your Surv waves
+- `!camp dance` · your Survivor dances
+- `!camp wave` · your Survivor waves
 - `!camp link CODE` · link this chat name to your Survivor
 - `!camp help` · camp replies with the command list
 
@@ -39,9 +39,9 @@ Watch on more than one platform? Link each one. You still get one survivor.
 - `/camp link` · get a code to link your Survivor
 - `/camp join` · your Survivor walks into camp (while live)
 - `/camp daily` · claim your daily Scrap
-- `/camp look` · set your Surv's skin, hair and hairstyle (free)
-- `/camp backpack` · try on and equip your Surv's gear
-- `/camp shop` · browse and buy gear for your Surv
+- `/camp look` · set your Survivor's skin, hair and hairstyle (free)
+- `/camp backpack` · try on and equip your Survivor's gear
+- `/camp shop` · browse and buy gear for your Survivor
 - `/camp help` · see the stream chat commands
 
 📖 Every command (walking, sitting, tool hand, stream codes and more) is in the [Command glossary](FULL-GUIDE.md#command-glossary).
@@ -65,7 +65,7 @@ Scavenger 60 · Forager 200 · Nomad 500 · Pathfinder 1,100 · Ranger 2,000 · 
 Coming soon: WILSON! (190) and Campfire (250).
 
 **The Camp Site** camp.sharpiethreesixty.media
-- Sign in with Discord or Google. No stream chat name needed to join.
+- Sign in with Discord or Google (coming soon). No stream chat name needed to join.
 - Walk into the **Driftwood Nest** hut to shop. Inside it, `!camp` commands don't work, so head back to camp first.
 - Backpack, Storage Chest, gifts and the Daily button live here too.
 

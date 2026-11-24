@@ -64,7 +64,7 @@ Linking connects your stream chat name (like your YouTube name) to your survivor
 3. **Paste it into the STREAM chat** on the platform you're watching, while Sharpie360 is live.
    - **Not in Discord!** If you paste it in Discord by mistake, SharpieBot deletes your message to keep your code safe and tells you it belongs in stream chat. Your code still works. (If the bot couldn't delete it, it cancels that code, and you'll need a fresh one.)
 4. **Check that it worked.** You'll get a reply in stream chat (`Linked! Welcome to camp, YOURNAME.`), a DM from SharpieBot, and your survivor's name turns **gold** right away.
-5. **Do it again for each platform you use.** You still get **one survivor**. When you type from another platform, your survivor just switches its platform icon.
+5. **Do it again for each platform you use**, and control your **one survivor** from each platform. When you type from another platform, your survivor just switches its platform icon.
 
 ### Checking and removing links
 - `/camp linkedplatforms` in Discord, or the **Stream Links** panel on the camp site, shows your linked names.
@@ -158,14 +158,14 @@ Type these in **Sharpie360's Discord server**. Type `/camp` and Discord shows a 
 
 **camp.sharpiethreesixty.media** shows camp live, on any screen, including phones.
 
-- **Sign in** with **Discord** or **Google**. Google sign-in doesn't need a YouTube channel.
+- **Sign in** with **Discord** or **Google** (coming soon). Google sign-in won't need a YouTube channel.
 - **No stream chat name needed.** Signed in, you can press **Join** (or type `!camp join` in the site chat) and walk in under your camp name. Link a stream chat name later and it's still one survivor.
 - **Actions:** join, leave, emotes, walk left/right/stop, Go To (press it, then tap the spot), hands. On a keyboard: A or ← walks left, D or → walks right, S or ↓ stops.
 - **Daily button:** claim your daily Scrap here or with `/camp daily`. Once a day either way.
 - **Backpack:** your items, the Storage Chest and gifts (section 7).
 - **Driftwood Nest:** the shop hut in camp (section 9).
 - **Stream Links:** your linked chat names, Get Link Code, and Unlink.
-- **Anchored Accounts** (in Settings): the sign-ins that open your survivor. Add a second one (say Google as well as Discord) so you can sign in either way. You always keep at least one. Already have a survivor? Sign in with that account first, so you don't start a new one by mistake.
+- **Anchored Accounts** (in Settings): the sign-ins that open your survivor. Add a second one (say Google as well as Discord, once Google sign-in is live) so you can sign in either way. You always keep at least one. Already have a survivor? Sign in with that account first, so you don't start a new one by mistake.
 - You stay signed in for 30 days while you keep using the site.
 
 ---
@@ -347,7 +347,7 @@ Signed in on the camp site with no stream chat name? You can join from the site 
 
 - **Jest the cat:** Sharpie360's black polydactyl cat. She wanders, sits, naps and sometimes sits next to a survivor. Only the streamer controls her.
 - **Platform icons:** the little logo before your name shows where you last typed from. YouTube names show without the `@`.
-- **Privacy:** camp only knows your **public chat name**. Linking saves your platform, public chat name, a scrambled (one-way) version of your Discord ID, and your look. Google sign-in shares your email and name to sign you in, but camp stores only the account id. Passwords and tokens are never asked for or kept. Link codes are hidden in the logs.
+- **Privacy:** camp only knows your **public chat name**. Linking saves your platform, public chat name, a scrambled (one-way) version of your Discord ID, and your look. Google sign-in (coming soon) shares your email and name to sign you in, but camp stores only the account id. Passwords and tokens are never asked for or kept. Link codes are hidden in the logs.
 - **Not live:** Discord camp commands say camp isn't open. Your look, items and links are all saved.
 
 ---
@@ -410,25 +410,25 @@ Every Survivor Camp command in one place. `!` commands go in **stream chat** (Yo
 - `!camp help` · camp replies with the command list
 - `!camp` · camp replies with a quick welcome
 
-**Moving and emotes** (your Surv has to be in camp)
-- `!camp dance` · your Surv dances
-- `!camp wave` · your Surv waves
-- `!camp spin` · your Surv spins in place
-- `!camp dance2` · your Surv does a disco dance
-- `!camp cheer` · your Surv cheers with fist pumps
-- `!camp left` · your Surv walks left
-- `!camp right` · your Surv walks right
-- `!camp stop` · your Surv stops walking
-- `!camp goto 50` · your Surv walks to a spot (0 = far left, 100 = far right)
-- `!camp sit` · your Surv sits down where it is
-- `!camp watch` · your Surv sits facing away to watch the adventure
-- `!camp getup` · your Surv stands back up
+**Moving and emotes** (your Survivor has to be in camp)
+- `!camp dance` · your Survivor dances
+- `!camp wave` · your Survivor waves
+- `!camp spin` · your Survivor spins in place
+- `!camp dance2` · your Survivor does a disco dance
+- `!camp cheer` · your Survivor cheers with fist pumps
+- `!camp left` · your Survivor walks left
+- `!camp right` · your Survivor walks right
+- `!camp stop` · your Survivor stops walking
+- `!camp goto 50` · your Survivor walks to a spot (0 = far left, 100 = far right)
+- `!camp sit` · your Survivor sits down where it is
+- `!camp watch` · your Survivor sits facing away to watch the adventure
+- `!camp getup` · your Survivor stands back up
 
 **Look and gear**
-- `!camp hand left` · your Surv holds its tool in the left hand
-- `!camp hand right` · your Surv holds its tool in the right hand
-- `!camp hand swap` · your Surv switches its tool to the other hand
-- `!camp hand empty` · your Surv puts its tool away (it stays in your backpack)
+- `!camp hand left` · your Survivor holds its tool in the left hand
+- `!camp hand right` · your Survivor holds its tool in the right hand
+- `!camp hand swap` · your Survivor switches its tool to the other hand
+- `!camp hand empty` · your Survivor puts its tool away (it stays in your backpack)
 
 **Scrap**
 - `!camp scrap WORD` · claim a stream code shown on screen for Scrap (linked Survivors)
@@ -446,25 +446,25 @@ Older forms still work: `!joincamp`, `!leavecamp`, `!dance`, `!wave`, `!spin`, `
 - `/camp leave` · your Survivor walks out of camp
 
 **Moving and emotes**
-- `/camp dance` · your Surv dances
-- `/camp wave` · your Surv waves
-- `/camp dance2` · your Surv does a disco dance
-- `/camp cheer` · your Surv cheers with fist pumps
-- `/camp sit` · your Surv sits down where it is
-- `/camp watch` · your Surv sits facing away to watch the adventure
-- `/camp getup` · your Surv stands back up
+- `/camp dance` · your Survivor dances
+- `/camp wave` · your Survivor waves
+- `/camp dance2` · your Survivor does a disco dance
+- `/camp cheer` · your Survivor cheers with fist pumps
+- `/camp sit` · your Survivor sits down where it is
+- `/camp watch` · your Survivor sits facing away to watch the adventure
+- `/camp getup` · your Survivor stands back up
 
 **Look and gear**
-- `/camp look` · set your Surv's skin tone, hair color and hairstyle (free; `random:True` rolls a new look)
-- `/camp body` · set your Surv's body type: Man or Woman
-- `/camp mood` · set your Surv's face: Happy, Content or Grumpy
-- `/camp hand` · set your Surv's dominant hand (Left, Right, Swap, or Empty to put the tool away)
-- `/camp backpack` · try on and equip your Surv's gear
+- `/camp look` · set your Survivor's skin tone, hair color and hairstyle (free; `random:True` rolls a new look)
+- `/camp body` · set your Survivor's body type: Man or Woman
+- `/camp mood` · set your Survivor's face: Happy, Content or Grumpy
+- `/camp hand` · set your Survivor's dominant hand (Left, Right, Swap, or Empty to put the tool away)
+- `/camp backpack` · try on and equip your Survivor's gear
 
 **Scrap and shop**
 - `/camp wallet` · see your Scrap, XP and rank
 - `/camp daily` · claim your daily Scrap
-- `/camp shop` · browse, preview, buy and sell gear for your Surv
+- `/camp shop` · browse, preview, buy and sell gear for your Survivor
 - `/camp sell` · sell an item you bought back for what you paid
 
 **Account**
