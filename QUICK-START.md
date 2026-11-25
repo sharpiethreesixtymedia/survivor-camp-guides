@@ -1,10 +1,10 @@
-# 🏕️ Survivor Camp: Quick Start
-Survivor Camp is the pixel-art game at the bottom of the screen during our adventures. Type `!camp join` in stream chat and your own little Survivor walks into camp. Jest the cat hangs out too. 🐈
+# 🏕️ Survival Camp: Quick Start
+Survival Camp is the pixel-art game at the bottom of the screen during our adventures. Type `!camp join` in stream chat and your own little Survivor walks into camp. Jest the cat hangs out too. 🐈
 
 **Where You Type Commands**
 - `!` commands go in **stream chat** (YouTube, Rumble, Twitch, Kick, VP Zone)
 - `/` commands go in **Discord**
-- The **camp site** camp.sharpiethreesixty.media: sign in with Discord or Google (coming soon) to get the full Survivor Camp experience. Beta testing only for now: ask in **Stream Campground** for early access
+- The **camp site** camp.sharpiethreesixty.media: sign in with Discord or Google (coming soon) to get the full Survival Camp experience. Beta testing only for now: ask in **Stream Campground** for early access
 - `/` only works in Discord. Twitch and Kick block slash commands they don't know, so stream chat uses `!`.
 
 **Link Your Account (Once Per Platform)**
