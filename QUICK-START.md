@@ -4,9 +4,8 @@ Survivor Camp is the pixel-art game at the bottom of the screen during our adven
 **Where You Type Commands**
 - `!` commands go in **stream chat** (YouTube, Rumble, Twitch, Kick, VP Zone)
 - `/` commands go in **Discord**
-- The **camp site** camp.sharpiethreesixty.media: sign in with Discord or Google (coming soon) to join, run actions, open your backpack and shop. Beta testing only for now: ask in the stream campground channel for early access
-
-*`/` only works in Discord. Twitch and Kick block slash commands they don't know, so stream chat uses `!`.*
+- The **camp site** camp.sharpiethreesixty.media: sign in with Discord or Google (coming soon) to get the full Survivor Camp experience. Beta testing only for now: ask in **Stream Campground** for early access
+- `/` only works in Discord. Twitch and Kick block slash commands they don't know, so stream chat uses `!`.
 
 **Link Your Account (Once Per Platform)**
 1. In Discord, type `/camp link` (or press **Get Link Code** on the camp site).
