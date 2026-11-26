@@ -1,13 +1,13 @@
-# Survivor Camp: The Full Beginner's Guide
+# Survival Camp: The Full Beginner's Guide
 
-*Last updated Nov 24, 2026. Matches Survivor Camp v0.54.0 and SharpieBot v0.52.5. The shorter version is the Quick Start.*
+*Last updated Nov 25, 2026. Matches Survival Camp v0.55.0 and SharpieBot v0.54.0. The shorter version is the Quick Start.*
 
 Hey, welcome to camp! This guide explains everything from scratch, so you don't need to know anything going in. If you get stuck, jump to the FAQ at the bottom.
 
 ---
 
 ## Contents
-1. What Survivor Camp is
+1. What Survival Camp is
 2. Linking your account (step by step)
 3. Stream chat commands (the `!` ones)
 4. Discord commands (the `/` ones)
@@ -26,9 +26,9 @@ Hey, welcome to camp! This guide explains everything from scratch, so you don't 
 
 ---
 
-## 1. What Survivor Camp is
+## 1. What Survival Camp is
 
-Survivor Camp is a little pixel-art game that lives at the bottom of the screen during Sharpie360's adventures.
+Survival Camp is a little pixel-art game that lives at the bottom of the screen during Sharpie360's adventures.
 
 - You type `!camp join` in stream chat, and your own tiny Survivor walks onto the screen.
 - Your Survivor wanders around camp. You can make it dance, wave, cheer, sit down or walk somewhere.
@@ -40,7 +40,7 @@ It works on every platform Sharpie360 goes live on: **YouTube, Rumble, Twitch, K
 
 There's also a **camp site**, camp.sharpiethreesixty.media, where you can sign in, see camp, run your Survivor and shop (section 5). The camp site is in beta testing right now; ask in the stream campground channel for early access.
 
-**Survivor Camp is tied to the SharpieBot Discord server.** You can play as a guest with no Discord at all. If you **link** your stream chat name, you get:
+**Survival Camp is tied to the SharpieBot Discord server.** You can play as a guest with no Discord at all. If you **link** your stream chat name, you get:
 - a **gold name** (guests are white),
 - a **longer stay** in camp,
 - your **own look**: skin tone, hair color, hairstyle, body type and mood,
@@ -398,7 +398,7 @@ That's a scam. Linking only ever uses the one-time code. Report it to the staff.
 
 ## Command glossary
 
-Every Survivor Camp command in one place. `!` commands go in **stream chat** (YouTube, Rumble, Twitch, Kick, VP Zone). `/` commands go in **Discord**.
+Every Survival Camp command in one place. `!` commands go in **stream chat** (YouTube, Rumble, Twitch, Kick, VP Zone). `/` commands go in **Discord**.
 
 *`/` only works in Discord. Twitch and Kick block slash commands they don't know, so stream chat uses `!`.*
 
